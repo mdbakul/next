@@ -1,0 +1,396 @@
+.team {
+    @include padding(110px 0 120px 0);
+    @extend %bg-reno-im, %bg-center-im, %bg-cover-im, %rel;
+
+    &__wrapper {
+        @extend %mt-60;
+    }
+
+    &__inner {
+        @include border-radius(5px);
+        @extend %hidden, %bg-white, %p-10;
+        padding-bottom: 0;
+
+        .thumb {
+            @extend %hidden, %p-rel;
+
+            img {
+                @extend %wd-100;
+            }
+
+            .allicon {
+                @extend %abs, %w-40, %h-40;
+                right: 20px;
+                top: 20px;
+                z-index: 99;
+
+                .fixedicon {
+                    @extend %pb-10;
+
+                    i {
+                        background: $color3;
+                        @extend %w-40, %h-40, %pointer, %text-center, %b-radius-4;
+                        @extend %white-color;
+                        line-height: 40px;
+                    }
+
+                    &:hover {
+                        i {
+                            @extend %bg2;
+                        }
+                    }
+                }
+
+                ul {
+                    @extend %mp-0, %transition2, %pl-0;
+                    visibility: hidden;
+                    opacity: 0;
+                    transform: translateX(50px);
+
+                    li {
+                        @extend %list-none;
+                        margin-bottom: 10px;
+
+                        a {
+                            @extend %w-40, %h-40, %text-center;
+                            @extend %b-radius-4, %d-inline-block;
+                            line-height: 40px;
+
+                            i {
+                                @include font-size(18px);
+                                @extend %white-color;
+                            }
+
+                        }
+
+                        &:nth-child(1) {
+                            a {
+                                background: $instagram;
+                            }
+                        }
+
+                        &:nth-child(2) {
+                            a {
+
+
+                                background: $linkedin;
+                            }
+                        }
+
+                        &:nth-child(3) {
+                            a {
+
+                                background: $facebook;
+                            }
+                        }
+
+                        &:nth-child(4) {
+                            a {
+
+                                background: $dribble;
+                            }
+                        }
+                    }
+                }
+
+                &:hover {
+                    >ul {
+                        margin-bottom: 10px;
+                        visibility: visible;
+                        opacity: 1;
+                        transform: translateX(0px);
+                    }
+                }
+            }
+
+            &::after {
+                @extend %abs, %bottom-0, %left-0, %wd-100, %hd-50, %transition;
+
+                @include breakpoint(sm) {
+                    background-image: linear-gradient(to top, rgb(45, 80, 206), rgb(0, 0, 0, 0));
+                    transform: scaleY(0);
+                    transform-origin: bottom;
+                }
+            }
+        }
+
+        .text {
+            @include padding(25px 15px);
+
+            h6 {
+                @extend %mb-0;
+
+                a {
+                    @extend %title-color, %text-none;
+                }
+            }
+
+            p {
+                margin-top: 2px;
+            }
+        }
+
+        &:hover {
+            box-shadow: 0px 0px 15px 0px rgba(179, 181, 191, 0.60);
+
+            .thumb {
+                @include breakpoint(sm) {
+                    &::after {
+                        transform: scaleX(1);
+                    }
+                }
+
+                img {
+                    transform: scale(1.1);
+                }
+            }
+
+            .text {
+                h6 {
+                    a {
+                        @extend %color2;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.team2 {
+    &__inner {
+        background: #F0F4F7;
+        @extend %rel, %transition2;
+        padding: 50px 30px;
+        z-index: 1;
+
+        @include breakpoint(sm) {
+            display: flex;
+            align-items: center;
+            gap: 30px;
+        }
+
+        .thumb {
+            @extend %rel;
+            width: 190px;
+            height: 190px;
+            border-radius: 8px;
+            border: 6px solid #FFF;
+
+            img {
+                @extend %wd-100;
+            }
+
+            &::before {
+                @extend %abs, %w-15, %h-15;
+                background: #1F2A59;
+                right: -12%;
+                bottom: -13%;
+            }
+        }
+
+        .text {
+            h6 {
+                a {
+                    @extend %text-none;
+                }
+            }
+
+            @extend %mt-35;
+
+            @include breakpoint(sm) {
+                width: calc(100% - 220px);
+                margin-top: 0;
+            }
+
+            .social {
+                @extend %mt-20;
+
+                a {
+                    @extend %w-35, %h-35, %b-radius-5, %d-inline-block, %white-color, %text-center, %mr-10;
+                    line-height: 35px;
+
+                    &:nth-child(1) {
+                        background: $facebook;
+                    }
+
+                    &:nth-child(2) {
+                        background: $instagram;
+                    }
+
+                    &:nth-child(3) {
+                        background: $linkedin;
+                    }
+
+                    &:nth-child(4) {
+                        background: $pinterest;
+                        @extend %mr-0;
+                    }
+                }
+            }
+        }
+
+        &::after {
+            @extend %abs, %top-0, %left-0;
+            width: 140px;
+            height: 140px;
+            background: #1F2A59;
+            z-index: -1;
+        }
+
+        &:hover {
+            .text {
+                h6 {
+                    a {
+                        @extend %color2;
+                    }
+                }
+            }
+
+            .thumb {
+                &::before {
+                    @extend %bg2;
+                }
+            }
+
+            &::after {
+                @extend %bg2;
+            }
+
+        }
+    }
+}
+
+.teamprofile {
+    @include padding(120px 0);
+
+    &__img {
+        img {
+            @extend %wd-100;
+        }
+    }
+
+    &__allcontent {
+        border: 1px solid #F8F5F0;
+        @include padding(20px);
+
+        @include breakpoint(xl) {
+            @include padding(30px 30px 40px 30px);
+        }
+    }
+
+    &__personalcontent {
+        @include breakpoint(xl) {
+            @include margin-left(40px);
+        }
+
+        h4 {
+            @include font-size(28px);
+        }
+
+        span {
+            @extend %text-400, %text-capitalize, %mt-5, %d-inline-block;
+        }
+
+        .data {
+            @include margin-top(30px);
+
+            >ul {
+                @extend %flex, %mp-0, %pl-0;
+                flex-direction: column;
+                gap: 18px;
+
+                li {
+                    @extend %flex, %align-items-center, %list-none;
+
+                    @include breakpoint(max-sm) {
+                        flex-direction: column;
+                        align-items: start;
+                    }
+
+                    span {
+                        width: 150px;
+                        @extend %d-inline-block,
+                        %title-color,
+                        %text-600;
+                    }
+
+                    p {
+                        @extend %text-400, %mb-0;
+                    }
+
+                    .allicon {
+                        @include breakpoint(max-sm) {
+                            @include margin-top(10px);
+                        }
+
+                        ul {
+                            @extend %flex, %mp-0, %gap-15, %pl-0;
+
+                            li {
+                                @extend %list-none;
+
+                                a {
+                                    @extend %wd-40,
+                                    %hd-40;
+                                    @include border-radius(20px);
+                                    @extend %text-center,
+                                    %transition;
+
+                                    i {
+                                        @extend %font-size-14, %color2;
+                                    }
+
+                                }
+                            }
+                        }
+                    }
+                }
+
+            }
+        }
+    }
+
+    &__experience {
+        @include margin-top(30px);
+
+        h5 {
+            @extend %mb-15;
+        }
+
+        p {
+            &:last-child {
+                @extend %mb-0;
+            }
+        }
+
+    }
+
+    &__year {
+        @include margin-top(30px);
+
+        h5 {
+            @extend %mb-15;
+        }
+
+        p {
+
+            &:last-child {
+                @extend %mb-0;
+            }
+        }
+    }
+
+    &__Guidelines {
+        @include margin-top(30px);
+
+        h5 {
+            @extend %mb-15;
+
+        }
+
+        p {
+            @extend %mb-0;
+        }
+    }
+
+}

@@ -1,0 +1,120 @@
+.contact {
+    @include padding(120px 0);
+
+    &__details {
+        ul {
+            @extend %pl-0, %mt-25;
+
+            li {
+                @extend %list-none, %flex, %gap-15, %mb-18;
+
+                .icon {
+                    @extend %w-35, %h-35, %bg2, %text-center, %b-radius-17;
+                    line-height: 35px;
+                }
+
+                .text {
+                    width: calc(100% - 50px);
+
+                    span {
+                        @extend %d-inline-block;
+                        line-height: 24px;
+
+                        @include breakpoint(sm) {
+                            width: 195px;
+                        }
+                    }
+                }
+
+                &:last-child {
+                    @extend %mb-0;
+                }
+            }
+        }
+    }
+
+    &__form {
+        background: #F0F4F7;
+        @extend %px-30, %py-40;
+
+        input {
+            @extend %wd-100, %bg-white, %py-10, %b-radius-5;
+        }
+
+        ::placeholder {
+            font-size: 16px;
+        }
+
+        textarea {
+            @extend %wd-100, %bg-white;
+        }
+
+        button {
+            @extend %white-color, %text-500, %border-none, %mt-15, %b-radius-5;
+        }
+    }
+}
+
+.map {
+    iframe {
+        @extend %wd-100;
+        min-height: 600px;
+    }
+}
+
+.book {
+    @include breakpoint(xl) {
+        z-index: 1;
+        position: relative;
+    }
+
+    @include padding(120px 0);
+    @extend %bg-reno-im, %bg-center-im, %bg-cover-im;
+
+    &::after {
+        @extend %bg-reno-im, %bg-center-im, %bg-cover-im;
+
+        @include breakpoint(xl) {
+            position: absolute;
+            content: '';
+            top: 0;
+            left: 0;
+            width: 50%;
+            height: 100%;
+            background-image: url('..//..//..//img/home3/consult/img.jpg');
+            z-index: -1;
+        }
+    }
+
+    &__form {
+        @extend %bg-white;
+        padding: 20px 10px;
+
+        @include breakpoint(sm) {
+            padding: 40px 30px;
+
+        }
+
+        @include breakpoint(xl) {
+            margin-left: 50px;
+        }
+
+        h3 {
+            @extend %mb-15;
+        }
+
+        input {
+            background: #F2F6F9;
+            @extend %wd-100;
+        }
+
+        textarea {
+            background: #F2F6F9;
+            @extend %wd-100;
+        }
+
+        button {
+            @extend %white-color, %text-500;
+        }
+    }
+}
