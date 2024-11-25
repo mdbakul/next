@@ -1,11 +1,10 @@
 $(function () {
     "use strict";
-    $('.preloader__logo img').addClass('logo-blink');
 
+    $('.preloader__logo img').addClass('logo-blink');
     function id(v) {
         return document.getElementById(v);
     }
-
     function loadbar() {
         var ovrl = id("loading"),
             prog = id("tp-loading-line"),

@@ -16,11 +16,10 @@
     margin-left: 10px !important;
 }
 
-
 .sponsor {
-    @include padding(100px 0 80px 0);
-
     @extend %bg-reno, %bg-center, %bg-cover;
+
+    @include padding(115px 0);
 
     h5 {
         @extend %text-center, %mb-30, %white-color, %text-500;
@@ -177,19 +176,25 @@
 
         input {
             width: calc(100% - 60px);
-            @extend %border-none;
             background: transparent;
+            padding: 21px 10px;
+            border: none !important;
         }
 
         button {
-            @extend %border-none, %bg2;
+            @extend %border-none, %bg2, %abs, %right-0, %bottom-0;
             @include border-radius(0 4px 4px 0);
+            padding: 21.5px 0;
+            width: 60px;
 
             i {
-                width: 60px;
-                @include padding(20px 0px);
+
                 @extend %white-color;
             }
         }
     }
+}
+
+.padding-block {
+    @include padding(120px 0);
 }

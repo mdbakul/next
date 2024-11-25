@@ -1,7 +1,12 @@
 .testmonial {
-    @include padding(115px 0 90px 0);
     @extend %bg-reno, %bg-center, %bg-cover, %rel;
     z-index: 1;
+
+    @include padding(115px 0 90px 0);
+
+    @include breakpoint(max-xxxxxl) {
+        overflow: hidden;
+    }
 
     &__inner {
         @extend %bg-white;
@@ -170,7 +175,5 @@
         @include breakpoint(max-xxxl) {
             overflow: hidden;
         }
-
-        @include padding(120px 0);
     }
 }

@@ -1,14 +1,6 @@
 .about {
     @extend %rel;
 
-    .container {
-        >.row {
-            @include breakpoint(max-xl) {
-                flex-direction: column-reverse;
-            }
-        }
-    }
-
     @include padding(100px 0 120px 0);
 
     @include breakpoint(lg) {
@@ -86,7 +78,7 @@
         }
 
         .item {
-            @extend %flex, %align-items-center, %gap-10;
+            @extend %flex, %align-items-center, %gap-15;
 
             .text {
                 h6 {
@@ -95,6 +87,15 @@
 
                 span {
                     @extend %color4, %font1;
+                }
+            }
+
+            &:first-child {
+                .thumb {
+                    @extend %w-70, %h-70, %bg-white;
+                    border-radius: 35px;
+                    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.10);
+                    border: 2px solid #FFF;
                 }
             }
 
@@ -151,10 +152,13 @@
     }
 
     .bottomshape {
-        @include breakpoint(sm) {
+        @extend %d-none;
+
+        @include breakpoint(lg) {
             position: absolute;
             bottom: 115px;
             right: 14%;
+            display: block;
         }
     }
 

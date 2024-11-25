@@ -1,6 +1,5 @@
 .overview {
     @extend %bg-reno, %bg-center, %bg-cover;
-    @include padding(120px 0 140px 0);
 
     &__count {
         @extend %mt-40, %flex, %gap-40;
@@ -39,7 +38,7 @@
             }
 
             img {
-                @extend %b-radius-10;
+                @extend %b-radius-15;
             }
 
             &.item1 {
@@ -89,7 +88,6 @@
             line-height: 24px;
         }
     }
-
 
     .row {
         @include breakpoint(max-lg) {

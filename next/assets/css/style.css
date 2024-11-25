@@ -62,7 +62,7 @@ a h6,
   color: #000000;
 }
 
-.skill__item--itemaboutpage .skillbar-container, .client__item, .casegallery__photoitem .inner_text, .casegallery__header ul li, .testmonial__inner, .pricing__inner--inner_p3 .bottom > a:hover, .pricing__inner .bottom, .team__inner, .case__item .text, .sidebar__brochure .desk .thumb, .services2__item .text, .services2__item .thumb .icon, .feture--feturepage3, .book__form, .contact__form textarea, .contact__form input, .menu-item-has-children.menu-item-has-children2 > a::before, .menu-item-has-children.menu-item-has-children2 > a::after, .tpoffcanvas__header, .tpoffcanvas, .header__bottom, .footer__widgets .footer_contact ul li .icon, .sidebar__alltag .alltaginner a, .sidebar__search form input, .blogsingle__leavecoments--addreview .formarea form .alliput textarea, .blogsingle__leavecoments--addreview .formarea form .alliput input, .blog__inner, .preloader__bar, #loading, .orginalsearch__area, .download-btn, .playbtn_animation.playbtn_animation2::before, .playbtn_animation.playbtn_animation2::after, .playbtn_animation a, .accordion-item .accordion-button:not(.collapsed) .plus-icon, .accordion-item .accordion-button .plus-icon:before, .accordion-item .accordion-button .plus-icon:after, .accordion-item .accordion-button, body,
+.skill__item--itemaboutpage .skillbar-container, .client__item, .casegallery__photoitem .inner_text, .casegallery__header ul li, .testmonial__inner, .pricing__inner--inner_p3 .bottom > a:hover, .pricing__inner .bottom, .team__inner, .case__item .text, .sidebar__brochure .desk .thumb, .services2__item .text, .services2__item .thumb .icon, .feture--feturepage3, .book__form, .contact__form textarea, .contact__form input, .about__ceo .item:first-child .thumb, .menu-item-has-children.menu-item-has-children2 > a::before, .menu-item-has-children.menu-item-has-children2 > a::after, .tpoffcanvas__header, .tpoffcanvas, .header__bottom, .footer__widgets .footer_contact ul li .icon, .sidebar__alltag .alltaginner a, .sidebar__search form input, .blogsingle__leavecoments--addreview .formarea form .alliput textarea, .blogsingle__leavecoments--addreview .formarea form .alliput input, .blog__inner, .preloader__bar, #loading, .orginalsearch__area, .download-btn, .playbtn_animation.playbtn_animation2::before, .playbtn_animation.playbtn_animation2::after, .playbtn_animation a, .accordion-item .accordion-button:not(.collapsed) .plus-icon, .accordion-item .accordion-button .plus-icon:before, .accordion-item .accordion-button .plus-icon:after, .accordion-item .accordion-button, body,
 button,
 input,
 select,
@@ -162,7 +162,7 @@ a h6 {
   opacity: 1;
 }
 
-.client__shape.shape8, .client__shape.shape7, .client__shape.shape6, .client__shape.shape5, .client__shape.shape4, .client__shape.shape3, .client__shape.shape2, .client__shape.shape1, .question .working__shape.shape7, .question .working__shape.shape6, .question__rightimg .item.item2, .pricing__bullet.bullet8, .pricing__bullet.bullet7, .pricing__bullet.bullet6, .pricing__bullet.bullet5, .pricing__bullet.bullet4, .pricing__bullet.bullet3, .pricing__bullet.bullet2, .pricing__bullet.bullet1, .working__shape.shape8, .working__shape.shape7, .working__shape.shape6, .working__shape.shape5, .working__shape.shape4, .working__shape.shape3, .working__shape.shape2, .working__shape.shape1, .working--aboutpage .working__item.item2, .working--workingp3 .working__item.item2, .overview__leftimg .item.item3, .overview__leftimg .item.item2, .case__bullet.bullet6, .case__bullet.bullet5, .case__bullet.bullet4, .case__bullet.bullet3, .case__bullet.bullet2, .case__bullet.bullet1, .cousult__content .rihgtimg, .feture__shape.shape1, .about__bullet.bullet4, .about__bullet.bullet3, .about__bullet.bullet2, .about__bullet.bullet1, .header__bottom--header2.header-fixed .ellepsis, .header__bottom.header-fixed .ellepsis, .banner .shape.shape6, .banner .shape.shape5, .banner .shape.shape4, .banner .shape.shape3, .banner .shape.shape2, .banner .shape.shape1, .banner__image, .footer__bullet.bullet4, .footer__bullet.bullet3, .footer__bullet.bullet2, .footer__bullet.bullet1, .blog__bullet.bullet8, .blog__bullet.bullet7, .blog__bullet.bullet6, .blog__bullet.bullet5, .blog__bullet.bullet4, .blog__bullet.bullet3, .blog__bullet.bullet2, .blog__bullet.bullet1, .preloader__with-text, .accordion-item .accordion-button:after {
+.client__shape.shape8, .client__shape.shape7, .client__shape.shape6, .client__shape.shape5, .client__shape.shape4, .client__shape.shape3, .client__shape.shape2, .client__shape.shape1, .question .working__shape.shape7, .question .working__shape.shape6, .question__rightimg .item.item2, .pricing__bullet.bullet8, .pricing__bullet.bullet7, .pricing__bullet.bullet6, .pricing__bullet.bullet5, .pricing__bullet.bullet4, .pricing__bullet.bullet3, .pricing__bullet.bullet2, .pricing__bullet.bullet1, .working__shape.shape8, .working__shape.shape7, .working__shape.shape6, .working__shape.shape5, .working__shape.shape4, .working__shape.shape3, .working__shape.shape2, .working__shape.shape1, .working--aboutpage .working__item.item2, .working--workingp3 .working__item.item2, .overview__leftimg .item.item3, .overview__leftimg .item.item2, .case__bullet.bullet6, .case__bullet.bullet5, .case__bullet.bullet4, .case__bullet.bullet3, .case__bullet.bullet2, .case__bullet.bullet1, .cousult__content .rihgtimg, .feture__shape.shape1, .about__bullet.bullet4, .about__bullet.bullet3, .about__bullet.bullet2, .about__bullet.bullet1, .about .bottomshape, .header__bottom--header2.header-fixed .ellepsis, .header__bottom.header-fixed .ellepsis, .banner .shape.shape6, .banner .shape.shape5, .banner .shape.shape4, .banner .shape.shape3, .banner .shape.shape2, .banner .shape.shape1, .banner__image, .footer__bullet.bullet4, .footer__bullet.bullet3, .footer__bullet.bullet2, .footer__bullet.bullet1, .blog__bullet.bullet8, .blog__bullet.bullet7, .blog__bullet.bullet6, .blog__bullet.bullet5, .blog__bullet.bullet4, .blog__bullet.bullet3, .blog__bullet.bullet2, .blog__bullet.bullet1, .preloader__with-text, .accordion-item .accordion-button:after {
   display: none;
 }
 
@@ -202,7 +202,7 @@ a h6 {
   justify-content: flex-end;
 }
 
-.contact__form button, .sidebar__search form button, .blogsingle__leavecoments--addreview, .blogsingle__leavecoments .formarea form button, .orginalsearch__area button, .orginalsearch__area input, .download-btn, .form_btn {
+.contact__form button, .sidebar__search form button, .blogsingle__leavecoments--addreview, .blogsingle__leavecoments .formarea form button, .orginalsearch__area button, .download-btn, .form_btn {
   border: none;
 }
 
@@ -236,7 +236,7 @@ a h6 {
   position: relative;
 }
 
-.client__shape, .casegallery__photoitem .inner_text, .pricing__bullet, .pricing__inner .top::after, .team2__inner::after, .team2__inner .thumb::before, .team__inner .thumb::after, .team__inner .thumb .allicon, .working__shape, .case__bullet, .case__item .text .icon a svg, .case__item .text .icon a, .services2__item .thumb .icon, .feture__shape, .about__bullet, .about__innerimg .counteritem, .menu-item-has-children > a::before, .menu-item-has-children > a::after, .banner .banner__rightshapepage3, .banner .banner__leftshapepage3, .banner .shape, .banner--baner3::after, .banner--bannerstyletwo .shapeicon, .banner__rightimage, .footer__bullet, .footer__copyright, .sidebar__search form button, .blog__bullet, .preloader__title-2::before, .preloader__bar-inner, #loading-center-absolute, .light-color::after, .playbtn_animation::before, .playbtn_animation::after, .msg, .accordion-item .accordion-button .plus-icon:before, .accordion-item .accordion-button .plus-icon:after,
+.client__shape, .casegallery__photoitem .inner_text, .pricing__bullet, .pricing__inner .top::after, .team2__inner::after, .team2__inner .thumb::before, .team__inner .thumb::after, .team__inner .thumb .allicon, .working__shape, .case__bullet, .case__item .text .icon a svg, .case__item .text .icon a, .services2__item .thumb .icon, .feture__shape, .about__bullet, .about__innerimg .counteritem, .menu-item-has-children > a::before, .menu-item-has-children > a::after, .banner .banner__rightshapepage3, .banner .banner__leftshapepage3, .banner .shape, .banner--baner3::after, .banner--bannerstyletwo .shapeicon, .banner__rightimage, .footer__bullet, .footer__copyright, .sidebar__search form button, .blog__bullet, .preloader__title-2::before, .preloader__bar-inner, #loading-center-absolute, .orginalsearch__area button, .light-color::after, .playbtn_animation::before, .playbtn_animation::after, .msg, .accordion-item .accordion-button .plus-icon:before, .accordion-item .accordion-button .plus-icon:after,
 .orginalsearch__area,
 .orginalsearch .closer {
   position: absolute;
@@ -251,7 +251,7 @@ a h6 {
   cursor: pointer;
 }
 
-.skill__item:last-child, .client__item .content .name ul, .client__item .content .name h6, .casedetails__right ul li p, .counter__inner .counting h2 span, .counter__inner .counting h2, .testmonial__inner--innerp3 .profile .left .text h6, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .testmonial__inner .profile .name h6, .pricing__inner .top h6, .teamprofile__Guidelines p, .teamprofile__year p:last-child, .teamprofile__experience p:last-child, .teamprofile__personalcontent .data > ul li p, .team__inner .text h6, .case__item .text h6, .sidebar__need .desk > .text ul li .text h6, .sidebar__need .desk > .text ul li:last-child, .sidebar__need .desk > .text ul, .contact__details ul li:last-child, .about__counter .item .text h4, .about__ceo .item .text h6, .tpoffcanvas__contact ul li:last-child, .header__menu nav > ul, .footer__widgets--widgets2 .footer_services ul li:last-child, .footer__widgets .popular_post ul li .text h6, .footer__widgets .footer_contact ul li:last-child, .footer__widgets .footer_services ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li .text h6, .sidebar__popular .desk ul li:last-child, .blogsingle__reletedpost .content .text h6, .blogsingle__comments .content ul li .commentsarea p, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name h6, .blogsingle__author .author-content .text h6, .accordion-item .accordion-button {
+.skill__item:last-child, .client__item .content .name ul, .client__item .content .name h6, .casedetails__right ul li p, .counter__inner .counting h2 span, .counter__inner .counting h2, .testmonial__inner--innerp3 .profile .left .text h6, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .testmonial__inner .profile .name h6, .pricing__inner .top h6, .teamprofile__Guidelines p, .teamprofile__year p:last-child, .teamprofile__experience p:last-child, .teamprofile__personalcontent .data > ul li p, .team__inner .text h6, .case__item .text h6, .sidebar__need .desk > .text ul li .text h6, .sidebar__need .desk > .text ul li:last-child, .sidebar__need .desk > .text ul, .contact__details ul li:last-child, .about__counter .item .text h4, .about__ceo .item .text h6, .tpoffcanvas__contact ul li:last-child, .header__menu nav > ul, .banner__btn .icon h6, .footer__widgets--widgets2 .footer_services ul li:last-child, .footer__widgets .popular_post ul li .text h6, .footer__widgets .footer_contact ul li:last-child, .footer__widgets .footer_services ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li .text h6, .sidebar__popular .desk ul li:last-child, .blogsingle__reletedpost .content .text h6, .blogsingle__comments .content ul li .commentsarea p, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name h6, .blogsingle__author .author-content .text h6, .accordion-item .accordion-button {
   margin-bottom: 0;
 }
 
@@ -502,6 +502,10 @@ select {
   margin-top: 1.0625rem;
 }
 
+.contact__form .response-message {
+  margin-top: 1.125rem;
+}
+
 .casedetails__left .item p, .team2__inner .text .social, .overview__title p, .sidebar__need, .sidebar__brochure .desk .text .download-btn, .sidebar__brochure, .services__inner .text h6, .feture__inner .text {
   margin-top: 1.25rem;
 }
@@ -596,7 +600,7 @@ select {
   }
 }
 
-.skill__item:last-child, .client__item .content .name ul, .client__item .content .name h6, .casedetails__right ul li p, .counter__inner .counting h2 span, .counter__inner .counting h2, .testmonial__inner--innerp3 .profile .left .text h6, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .testmonial__inner .profile .name h6, .pricing__inner .top h6, .teamprofile__Guidelines p, .teamprofile__year p:last-child, .teamprofile__experience p:last-child, .teamprofile__personalcontent .data > ul li p, .team__inner .text h6, .case__item .text h6, .sidebar__need .desk > .text ul li .text h6, .sidebar__need .desk > .text ul li:last-child, .sidebar__need .desk > .text ul, .contact__details ul li:last-child, .about__counter .item .text h4, .about__ceo .item .text h6, .tpoffcanvas__contact ul li:last-child, .header__menu nav > ul, .footer__widgets--widgets2 .footer_services ul li:last-child, .footer__widgets .popular_post ul li .text h6, .footer__widgets .footer_contact ul li:last-child, .footer__widgets .footer_services ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li .text h6, .sidebar__popular .desk ul li:last-child, .blogsingle__reletedpost .content .text h6, .blogsingle__comments .content ul li .commentsarea p, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name h6, .blogsingle__author .author-content .text h6, .accordion-item .accordion-button {
+.skill__item:last-child, .client__item .content .name ul, .client__item .content .name h6, .casedetails__right ul li p, .counter__inner .counting h2 span, .counter__inner .counting h2, .testmonial__inner--innerp3 .profile .left .text h6, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .testmonial__inner .profile .name h6, .pricing__inner .top h6, .teamprofile__Guidelines p, .teamprofile__year p:last-child, .teamprofile__experience p:last-child, .teamprofile__personalcontent .data > ul li p, .team__inner .text h6, .case__item .text h6, .sidebar__need .desk > .text ul li .text h6, .sidebar__need .desk > .text ul li:last-child, .sidebar__need .desk > .text ul, .contact__details ul li:last-child, .about__counter .item .text h4, .about__ceo .item .text h6, .tpoffcanvas__contact ul li:last-child, .header__menu nav > ul, .banner__btn .icon h6, .footer__widgets--widgets2 .footer_services ul li:last-child, .footer__widgets .popular_post ul li .text h6, .footer__widgets .footer_contact ul li:last-child, .footer__widgets .footer_services ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li .text h6, .sidebar__popular .desk ul li:last-child, .blogsingle__reletedpost .content .text h6, .blogsingle__comments .content ul li .commentsarea p, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name h6, .blogsingle__author .author-content .text h6, .accordion-item .accordion-button {
   margin-bottom: 0rem;
 }
 
@@ -827,7 +831,7 @@ select {
   padding-block: 12px;
 }
 
-.header__top .right .headerbtn a, .header__top .left ul li {
+.header__top .left ul li {
   padding-block: 13px;
 }
 
@@ -979,6 +983,10 @@ select {
   width: 60px;
 }
 
+.about__ceo .item:first-child .thumb {
+  width: 70px;
+}
+
 .tpoffcanvas__allimg a img {
   width: 75px;
 }
@@ -1062,6 +1070,10 @@ select {
 
 .client__item .thumb, .testmonial__inner--innerp3 .profile .left .thumb {
   height: 60px;
+}
+
+.about__ceo .item:first-child .thumb {
+  height: 70px;
 }
 
 .tpoffcanvas__allimg a img {
@@ -1223,7 +1235,7 @@ a h6 {
   left: 85%;
 }
 
-.tpoffcanvas.opened, .banner .banner__rightshapepage3 {
+.tpoffcanvas.opened, .banner .banner__rightshapepage3, .orginalsearch__area button {
   right: 0%;
 }
 
@@ -1239,7 +1251,7 @@ a h6 {
   right: 43%;
 }
 
-.team__inner .thumb::after, .tpoffcanvas, .banner__rightimage, .footer__copyright {
+.team__inner .thumb::after, .tpoffcanvas, .banner__rightimage, .footer__copyright, .orginalsearch__area button {
   bottom: 0%;
 }
 
@@ -1258,11 +1270,11 @@ a h6 {
   gap: 5px;
 }
 
-.casegallery__header ul, .about__ceo .item, .tpoffcanvas__social ul {
+.casegallery__header ul, .tpoffcanvas__social ul {
   gap: 10px;
 }
 
-.teamprofile__personalcontent .data > ul li .allicon ul, .contact__details ul li, .footer__widgets .footer_contact ul li {
+.teamprofile__personalcontent .data > ul li .allicon ul, .contact__details ul li, .about__ceo .item, .footer__widgets .footer_contact ul li {
   gap: 15px;
 }
 
@@ -1317,11 +1329,11 @@ a h6 {
   border-radius: 6px;
 }
 
-.working__allitem .item .thumb, .working__inner .icon .left, .overview__leftimg .item img, .case__item .thumb, .cousult__content, .banner__btn > a span, .blogsingle__pagi ul li a, .blog__inner--inner2, .blog__inner .thumb {
+.working__allitem .item .thumb, .working__inner .icon .left, .case__item .thumb, .cousult__content, .banner__btn > a span, .blogsingle__pagi ul li a, .blog__inner--inner2, .blog__inner .thumb {
   border-radius: 10px;
 }
 
-.working--workingp3 .working__item img {
+.working--workingp3 .working__item img, .overview__leftimg .item img {
   border-radius: 15px;
 }
 
@@ -1756,11 +1768,11 @@ a h6 {
 }
 
 .sponsor {
-  padding: calc(1.75rem + 6vw) 0 calc(1.625rem + 4.5vw) 0;
+  padding: calc(1.84375rem + 7.125vw) 0;
 }
 @media (min-width: 1200px) {
   .sponsor {
-    padding: 6.25rem 0 5rem 0;
+    padding: 7.1875rem 0;
   }
 }
 .sponsor h5 span {
@@ -1899,15 +1911,23 @@ a h6 {
 .orginalsearch__area input {
   width: calc(100% - 60px);
   background: transparent;
+  padding: 21px 10px;
+  border: none !important;
 }
 .orginalsearch__area button {
   -webkit-border-radius: 0 4px 4px 0;
   -moz-border-radius: 0 4px 4px 0;
   border-radius: 0 4px 4px 0;
-}
-.orginalsearch__area button i {
+  padding: 21.5px 0;
   width: 60px;
-  padding: 1.25rem 0rem;
+}
+.padding-block {
+  padding: calc(1.875rem + 7.5vw) 0;
+}
+@media (min-width: 1200px) {
+  .padding-block {
+    padding: 7.5rem 0;
+  }
 }
 
 /*----------------------------------------*/
@@ -2039,12 +2059,6 @@ a h6 {
   background: url("..//..//..//img/home1/blog/bgrihgt.png"), url("..//..//..//img/home1/blog/bgtopleft.png");
   background-repeat: no-repeat;
   background-position: 102% 0%, 0 -385px;
-  padding: calc(1.8125rem + 6.75vw) 0 calc(1.875rem + 7.5vw) 0;
-}
-@media (min-width: 1200px) {
-  .blog {
-    padding: 6.875rem 0 7.5rem 0;
-  }
 }
 .blog__inner {
   box-shadow: 0px 8px 10px 0px #F5F7F8;
@@ -2160,11 +2174,11 @@ a h6 {
 }
 
 .blogsingle {
-  padding: calc(1.75rem + 6vw) 0 calc(1.5rem + 3vw) 0;
+  padding-bottom: calc(1.625rem + 4.5vw);
 }
 @media (min-width: 1200px) {
   .blogsingle {
-    padding: 6.25rem 0 3.75rem 0;
+    padding-bottom: 5rem;
   }
 }
 .blogsingle__pagi ul {
@@ -2528,11 +2542,11 @@ a h6 {
 }
 
 .footer {
-  padding: calc(1.875rem + 7.5vw) 0 calc(2.125rem + 10.5vw) 0;
+  padding-bottom: calc(2.1875rem + 11.25vw);
 }
 @media (min-width: 1200px) {
   .footer {
-    padding: 7.5rem 0 10rem 0;
+    padding-bottom: 10.625rem;
   }
 }
 .footer__widgets .socialicon a {
@@ -2550,7 +2564,7 @@ a h6 {
 .footer__widgets .socialicon a:nth-child(4) {
   background: #bd081c;
 }
-@media (min-width: 576px) {
+@media (min-width: 1200px) {
   .footer__widgets .footer_services {
     padding-left: 60px;
   }
@@ -2912,6 +2926,9 @@ a h6 {
 }
 .header__top .right .headerbtn {
   border-radius: 0 !important;
+}
+.header__top .right .headerbtn a {
+  padding-block: 13.5px;
 }
 @media (min-width: 1200px) {
   .header__top--header2 {
@@ -3297,17 +3314,14 @@ a h6 {
   background: #fff;
 }
 
-.section__title h3 {
-  line-height: 44px;
+@media (min-width: 1200px) {
+  .section__title h3 {
+    line-height: 44px;
+  }
 }
 .about {
   padding: calc(1.75rem + 6vw) 0 calc(1.875rem + 7.5vw) 0;
   position: relative;
-}
-@media (max-width: 1199px) {
-  .about .container > .row {
-    flex-direction: column-reverse;
-  }
 }
 @media (min-width: 1200px) {
   .about {
@@ -3358,6 +3372,11 @@ a h6 {
     gap: 60px;
   }
 }
+.about__ceo .item:first-child .thumb {
+  border-radius: 35px;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.1);
+  border: 2px solid #FFF;
+}
 .about__ceo .item:last-child .thumb {
   border-radius: 23px;
   line-height: 45px;
@@ -3380,11 +3399,12 @@ a h6 {
 .about__innerimg--innerimgpage2 .counteritem {
   top: 70px !important;
 }
-@media (min-width: 576px) {
+@media (min-width: 992px) {
   .about .bottomshape {
     position: absolute;
     bottom: 115px;
     right: 14%;
+    display: block;
   }
 }
 .about__counter .item .text {
@@ -3490,14 +3510,6 @@ a h6 {
   }
 }
 
-.contact {
-  padding: calc(1.875rem + 7.5vw) 0;
-}
-@media (min-width: 1200px) {
-  .contact {
-    padding: 7.5rem 0;
-  }
-}
 .contact__details ul li .icon {
   line-height: 35px;
 }
@@ -3518,6 +3530,10 @@ a h6 {
 .contact__form ::placeholder {
   font-size: 16px;
 }
+.contact__form .response-message {
+  color: green;
+}
+
 .map iframe {
   min-height: 600px;
 }
@@ -3567,14 +3583,6 @@ a h6 {
 .book__form textarea {
   background: #F2F6F9;
 }
-.feture {
-  padding: calc(1.625rem + 4.5vw) 0 0 0;
-}
-@media (min-width: 1200px) {
-  .feture {
-    padding: 5rem 0 0 0;
-  }
-}
 @media (max-width: 575px) {
   .feture__inner {
     text-align: center;
@@ -3617,11 +3625,15 @@ a h6 {
   background: #fff6e3;
 }
 .feture--feturepage3 {
-  padding: calc(1.49375rem + 2.925vw) 0;
   z-index: 1;
   width: 100% !important;
 }
 @media (min-width: 1200px) {
+  .feture--feturepage3 {
+    padding: calc(1.49375rem + 2.925vw) 0;
+  }
+}
+@media (min-width: 1200px) and (min-width: 1200px) {
   .feture--feturepage3 {
     padding: 3.6875rem 0;
   }
@@ -3653,22 +3665,14 @@ a h6 {
   }
 }
 
-.services {
-  padding: calc(1.75rem + 6vw) 0 calc(1.5625rem + 3.75vw) 0;
-}
-@media (min-width: 1200px) {
-  .services {
-    padding: 6.25rem 0 4.375rem 0;
-  }
-}
 @media (min-width: 1400px) {
   .services {
-    padding: calc(1.875rem + 7.5vw) 0 calc(2.6875rem + 17.25vw) 0;
+    padding-bottom: calc(2.5625rem + 15.75vw);
   }
 }
 @media (min-width: 1400px) and (min-width: 1200px) {
   .services {
-    padding: 7.5rem 0 15.625rem 0;
+    padding-bottom: 14.375rem;
   }
 }
 .services__inner {
@@ -3818,6 +3822,14 @@ a h6 {
     margin-top: 0px;
   }
 }
+.services--page3 {
+  padding-bottom: calc(2.0625rem + 9.75vw) 0;
+}
+@media (min-width: 1200px) {
+  .services--page3 {
+    padding-bottom: 9.375rem 0;
+  }
+}
 @media (max-width: 1399px) {
   .services--page3 {
     overflow: hidden;
@@ -3825,11 +3837,11 @@ a h6 {
 }
 
 .services2 {
-  padding: calc(1.8125rem + 6.75vw) 0;
+  padding-bottom: calc(1.8125rem + 6.75vw);
 }
 @media (min-width: 1200px) {
   .services2 {
-    padding: 6.875rem 0;
+    padding-bottom: 6.875rem;
   }
 }
 .services2__item .thumb img {
@@ -3864,12 +3876,16 @@ a h6 {
 .services2__item:hover .text {
   box-shadow: 0px 10px 10px 0px rgba(85, 85, 85, 0.1);
 }
+.services2__item:hover .text a svg path {
+  fill: #2D50CE;
+}
+
 .servicesingle {
-  padding: calc(1.875rem + 7.5vw) 0;
+  padding-bottom: calc(1.625rem + 4.5vw);
 }
 @media (min-width: 1200px) {
   .servicesingle {
-    padding: 7.5rem 0;
+    padding-bottom: 5rem;
   }
 }
 .servicesingle__body .item .text h4 {
@@ -3969,11 +3985,11 @@ a h6 {
 }
 
 .case {
-  padding: calc(1.8125rem + 6.75vw) 0 calc(1.75rem + 6vw) 0;
+  padding-bottom: calc(1.75rem + 6vw);
 }
 @media (min-width: 1200px) {
   .case {
-    padding: 6.875rem 0 6.25rem 0;
+    padding-bottom: 6.25rem;
   }
 }
 @media (min-width: 768px) {
@@ -4098,14 +4114,6 @@ a h6 {
   }
 }
 
-.overview {
-  padding: calc(1.875rem + 7.5vw) 0 calc(2rem + 9vw) 0;
-}
-@media (min-width: 1200px) {
-  .overview {
-    padding: 7.5rem 0 8.75rem 0;
-  }
-}
 .overview__count .item {
   border: 1px solid #D0D4E0;
   border-radius: 10px;
@@ -4155,14 +4163,6 @@ a h6 {
   }
 }
 
-.working {
-  padding: calc(1.84375rem + 7.125vw) 0;
-}
-@media (min-width: 1200px) {
-  .working {
-    padding: 7.1875rem 0;
-  }
-}
 .working__wrapper .row .col-lg-4:nth-child(2) .working__inner .icon .left {
   background: #8A93E6;
 }
@@ -4188,24 +4188,22 @@ a h6 {
 .working__inner:hover .icon .left img {
   transform: rotateY(360deg);
 }
-@media (max-width: 1399px) {
-  .working--workingp3 {
-    padding: calc(1.5rem + 3vw) 0 calc(1.875rem + 7.5vw) 0;
-  }
+.working--workingp3 {
+  padding: calc(1.75rem + 6vw) 0;
 }
-@media (max-width: 1399px) and (min-width: 1200px) {
+@media (min-width: 1200px) {
   .working--workingp3 {
-    padding: 3.75rem 0 7.5rem 0;
+    padding: 6.25rem 0;
   }
 }
 @media (min-width: 1400px) {
   .working--workingp3 {
-    padding: calc(2.8125rem + 18.75vw) 0 calc(2.375rem + 13.5vw) 0;
+    padding: calc(3.25rem + 24vw) 0 calc(2.125rem + 10.5vw) 0;
   }
 }
 @media (min-width: 1400px) and (min-width: 1200px) {
   .working--workingp3 {
-    padding: 16.875rem 0 12.5rem 0;
+    padding: 21.25rem 0 10rem 0;
   }
 }
 @media (max-width: 991px) {
@@ -4222,7 +4220,7 @@ a h6 {
   .working--workingp3 .working__item.item2 {
     position: absolute;
     top: 55%;
-    left: 5%;
+    left: 15%;
     display: block;
   }
 }
@@ -4231,20 +4229,26 @@ a h6 {
     border: 5px solid #FFF;
   }
 }
-@media (min-width: 1400px) {
-  .working--aboutpage {
-    padding: calc(1.5rem + 3vw) 0 calc(2.5rem + 15vw) 0;
-  }
+.working--aboutpage {
+  padding-top: calc(1.5rem + 3vw);
 }
-@media (min-width: 1400px) and (min-width: 1200px) {
+@media (min-width: 1200px) {
   .working--aboutpage {
-    padding: 3.75rem 0 13.75rem 0;
+    padding-top: 3.75rem;
   }
 }
 @media (min-width: 1400px) {
   .working--aboutpage .working__item.item2 {
     top: 45%;
-    left: 7%;
+    left: 16%;
+  }
+}
+.working--aboutpage .working__wrapper {
+  padding-bottom: calc(1.4375rem + 2.25vw);
+}
+@media (min-width: 1200px) {
+  .working--aboutpage .working__wrapper {
+    padding-bottom: 3.125rem;
   }
 }
 .working__allitem {
@@ -4268,7 +4272,7 @@ a h6 {
 }
 @media (min-width: 992px) {
   .working__process {
-    padding-left: 50px;
+    padding-left: 35px;
   }
 }
 @media (min-width: 1200px) {
@@ -4346,14 +4350,6 @@ a h6 {
   }
 }
 
-.team {
-  padding: calc(1.8125rem + 6.75vw) 0 calc(1.875rem + 7.5vw) 0;
-}
-@media (min-width: 1200px) {
-  .team {
-    padding: 6.875rem 0 7.5rem 0;
-  }
-}
 .team__inner {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -4430,6 +4426,10 @@ a h6 {
 .team__inner:hover .thumb img {
   transform: scale(1.1);
 }
+.team__inner--innersingle {
+  background: #F0F4F7;
+}
+
 .team2__inner {
   background: #F0F4F7;
   padding: 50px 30px;
@@ -4479,14 +4479,6 @@ a h6 {
   height: 140px;
   background: #1F2A59;
   z-index: -1;
-}
-.teamprofile {
-  padding: calc(1.875rem + 7.5vw) 0;
-}
-@media (min-width: 1200px) {
-  .teamprofile {
-    padding: 7.5rem 0;
-  }
 }
 .teamprofile__allcontent {
   border: 1px solid #F8F5F0;
@@ -4576,19 +4568,19 @@ a h6 {
   }
 }
 .pricing {
-  padding: calc(1.84375rem + 7.125vw) 0 calc(2.03125rem + 9.375vw) 0;
+  padding-bottom: calc(2.03125rem + 9.375vw);
 }
 @media (min-width: 1200px) {
   .pricing {
-    padding: 7.1875rem 0 9.0625rem 0;
+    padding-bottom: 9.0625rem;
   }
 }
 .pricing__wrapper {
-  height: 2050px;
+  height: 2150px;
 }
 @media (min-width: 768px) {
   .pricing__wrapper {
-    height: 1350px;
+    height: 1450px;
   }
 }
 @media (min-width: 1200px) {
@@ -4741,12 +4733,17 @@ a h6 {
 }
 
 .testmonial {
-  padding: calc(1.84375rem + 7.125vw) 0 calc(1.6875rem + 5.25vw) 0;
   z-index: 1;
+  padding: calc(1.84375rem + 7.125vw) 0 calc(1.6875rem + 5.25vw) 0;
 }
 @media (min-width: 1200px) {
   .testmonial {
     padding: 7.1875rem 0 5.625rem 0;
+  }
+}
+@media (max-width: 1599px) {
+  .testmonial {
+    overflow: hidden;
   }
 }
 .testmonial__inner {
@@ -4854,26 +4851,18 @@ a h6 {
     width: 100%;
   }
 }
-.testmonial--page3 {
-  padding: calc(1.875rem + 7.5vw) 0;
-}
 @media (max-width: 1399px) {
   .testmonial--page3 {
     overflow: hidden;
   }
 }
-@media (min-width: 1200px) {
-  .testmonial--page3 {
-    padding: 7.5rem 0;
-  }
-}
 
 .counter {
-  padding: calc(1.75rem + 6vw) 0;
+  padding: calc(1.78125rem + 6.375vw) 0;
 }
 @media (min-width: 1200px) {
   .counter {
-    padding: 6.25rem 0;
+    padding: 6.5625rem 0;
   }
 }
 .counter__inner .counting h2 {
@@ -4905,22 +4894,11 @@ a h6 {
 }
 
 .question {
-  padding: calc(1.875rem + 7.5vw) 0 calc(2rem + 9vw) 0;
+  padding-bottom: calc(2.125rem + 10.5vw);
 }
 @media (min-width: 1200px) {
   .question {
-    padding: 7.5rem 0 8.75rem 0;
-  }
-}
-@media (min-width: 992px) {
-  .question .section__wrapper {
-    max-width: 600px;
-    margin-top: calc(1.40625rem + 1.875vw);
-  }
-}
-@media (min-width: 992px) and (min-width: 1200px) {
-  .question .section__wrapper {
-    margin-top: 2.8125rem;
+    padding-bottom: 10rem;
   }
 }
 @media (min-width: 1200px) {
@@ -4934,22 +4912,29 @@ a h6 {
 @media (min-width: 1200px) {
   .question__rightimg .item.item1 {
     top: 220px;
-    right: 60px;
+    right: 50px;
   }
 }
 @media (min-width: 1400px) {
   .question__rightimg .item.item1 {
-    right: 200px;
+    right: 120px;
   }
 }
 @media (min-width: 1440px) {
   .question__rightimg .item.item1 {
-    right: 260px;
+    right: 240px;
   }
 }
 @media (min-width: 1200px) {
   .question__rightimg .item.item2 {
     display: block;
+    right: 16%;
+  }
+}
+@media (min-width: 1440px) {
+  .question__rightimg .item.item2 {
+    display: block;
+    right: 25%;
   }
 }
 @media (min-width: 1200px) {
@@ -4976,11 +4961,11 @@ a h6 {
   }
 }
 .question--padingfaqpage {
-  padding-bottom: calc(1.5625rem + 3.75vw);
+  padding-bottom: calc(1.75rem + 6vw);
 }
 @media (min-width: 1200px) {
   .question--padingfaqpage {
-    padding-bottom: 4.375rem;
+    padding-bottom: 6.25rem;
   }
 }
 @media (min-width: 1600px) {
@@ -4996,14 +4981,6 @@ a h6 {
   }
 }
 
-.casegallery {
-  padding: calc(1.875rem + 7.5vw) 0;
-}
-@media (min-width: 1200px) {
-  .casegallery {
-    padding: 7.5rem 0;
-  }
-}
 .casegallery__photoitem .inner_text {
   width: 100%;
   transition: all 1s ease;
@@ -5017,18 +4994,6 @@ a h6 {
 }
 .casegallery__photoitem:hover .inner_text {
   bottom: 15px;
-}
-.casegallery--casegallerypage2 {
-  padding: 60px 0 120px 0;
-}
-
-.casedetails {
-  padding: calc(1.875rem + 7.5vw) 0;
-}
-@media (min-width: 1200px) {
-  .casedetails {
-    padding: 7.5rem 0;
-  }
 }
 .casedetails__left .item h4 {
   font-size: 28px;
@@ -5077,11 +5042,11 @@ a h6 {
 }
 
 .client {
-  padding: calc(1.84375rem + 7.125vw) 0 calc(1.625rem + 4.5vw) 0;
+  padding-bottom: calc(1.625rem + 4.5vw);
 }
 @media (min-width: 1200px) {
   .client {
-    padding: 7.1875rem 0 5rem 0;
+    padding-bottom: 5rem;
   }
 }
 .client__item {

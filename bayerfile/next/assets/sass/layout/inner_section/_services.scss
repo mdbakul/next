@@ -1,9 +1,8 @@
 .services {
     @extend %bg-reno, %bg-center, %bg-cover;
-    @include padding(100px 0 70px 0);
 
     @include breakpoint(xxxl) {
-        @include padding(120px 0 250px 0);
+        @include padding-bottom(230px);
     }
 
     &__inner {
@@ -161,6 +160,7 @@
     }
 
     &--servicespage {
+
         @include padding-bottom(120px);
 
         .row {
@@ -213,6 +213,8 @@
     }
 
     &--page3 {
+        @include padding-bottom(150px 0);
+
         @include breakpoint(max-xxxl) {
             overflow: hidden;
         }
@@ -221,11 +223,10 @@
 
 // services style two start here
 .services2 {
-    @include padding(110px 0);
+    @include padding-bottom(110px);
 
     &__item {
         @extend %mb-30;
-
 
         .thumb {
             @extend %rel;
@@ -302,6 +303,12 @@
 
                 a {
                     @extend %color2;
+
+                    svg {
+                        path {
+                            fill: #2D50CE;
+                        }
+                    }
                 }
             }
 
@@ -310,7 +317,8 @@
 }
 
 .servicesingle {
-    @include padding(120px 0);
+
+    @include padding-bottom(80px);
 
     &__body {
         .item {

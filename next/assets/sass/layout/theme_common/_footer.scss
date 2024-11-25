@@ -1,7 +1,7 @@
 .footer {
     @extend %rel;
-    @include padding(120px 0 160px 0);
     @extend %bg-reno, %bg-center, %bg-cover;
+    @include padding-bottom(170px);
 
     &__widgets {
         h6 {
@@ -42,7 +42,7 @@
         }
 
         .footer_services {
-            @include breakpoint(sm) {
+            @include breakpoint(xl) {
                 padding-left: 60px;
             }
 

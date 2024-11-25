@@ -1,5 +1,5 @@
 .working {
-    @include padding(115px 0);
+
     @extend %bg-reno-im, %bg-center-im, %bg-cover-im, %rel;
 
     &__wrapper {
@@ -88,13 +88,10 @@
 
     &--workingp3 {
         @extend %bg-reno-im, %bg-center-im, %bg-cover-im;
-
-        @include breakpoint(max-xxxl) {
-            @include padding(60px 0 120px 0);
-        }
+        @include padding(100px 0);
 
         @include breakpoint(xxxl) {
-            @include padding(270px 0 200px 0);
+            @include padding(340px 0 160px 0);
         }
 
         .working__wrapper {
@@ -122,7 +119,7 @@
                 @include breakpoint(xxxl) {
                     position: absolute;
                     top: 55%;
-                    left: 5%;
+                    left: 15%;
                     display: block;
                 }
 
@@ -138,21 +135,23 @@
     }
 
     &--aboutpage {
-        @include breakpoint(xxxl) {
-            @include padding(60px 0 220px 0);
-        }
+
+        @include padding-top(60px);
 
         .working__item {
-
             &.item2 {
                 @extend %d-none;
 
                 @include breakpoint(xxxl) {
                     top: 45%;
-                    left: 7%;
+                    left: 16%;
                 }
 
             }
+        }
+
+        .working__wrapper {
+            @include padding-bottom(50px);
         }
 
     }
@@ -231,7 +230,7 @@
 
     &__process {
         @include breakpoint(lg) {
-            padding-left: 50px;
+            padding-left: 35px;
         }
     }
 

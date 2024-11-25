@@ -2,7 +2,6 @@
     background: url('..//..//..//img/home1/blog/bgrihgt.png'), url('..//..//..//img/home1/blog/bgtopleft.png');
     background-repeat: no-repeat;
     background-position: 102% 0%, 0 -385px;
-    @include padding(110px 0 120px 0);
     @extend %rel;
 
     &__inner {
@@ -236,8 +235,7 @@
 }
 
 .blogsingle {
-    @include padding(100px 0 60px 0);
-
+    @include padding-bottom(80px);
 
     &__pagi {
         @extend %flex, %justify-center, %mt-65;

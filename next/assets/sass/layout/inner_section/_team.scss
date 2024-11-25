@@ -1,5 +1,4 @@
 .team {
-    @include padding(110px 0 120px 0);
     @extend %bg-reno-im, %bg-center-im, %bg-cover-im, %rel;
 
     &__wrapper {
@@ -153,6 +152,10 @@
                 }
             }
         }
+
+        &--innersingle {
+            background: #F0F4F7;
+        }
     }
 }
 
@@ -261,7 +264,6 @@
 }
 
 .teamprofile {
-    @include padding(120px 0);
 
     &__img {
         img {

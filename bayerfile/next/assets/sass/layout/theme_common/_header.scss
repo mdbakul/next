@@ -85,7 +85,8 @@
 
                 a {
                     @extend %text-none;
-                    @extend %bg2, %white-color, %px-20, %py-13, %text-600;
+                    @extend %bg2, %white-color, %px-20, %text-600;
+                    padding-block: 13.5px;
                 }
             }
         }

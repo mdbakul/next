@@ -1,6 +1,7 @@
 .counter {
     @extend %bg-reno, %bg-center, %bg-cover;
-    @include padding(100px 0);
+
+    @include padding(105px 0);
 
     &__inner {
         @extend %text-center;

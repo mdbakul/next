@@ -1,5 +1,4 @@
 .contact {
-    @include padding(120px 0);
 
     &__details {
         ul {
@@ -51,6 +50,11 @@
 
         button {
             @extend %white-color, %text-500, %border-none, %mt-15, %b-radius-5;
+        }
+
+        .response-message {
+            @extend %mt-18;
+            color: green;
         }
     }
 }

@@ -6,7 +6,10 @@
 
         h3 {
             @extend %text-600, %font1;
-            line-height: 44px;
+
+            @include breakpoint(xl) {
+                line-height: 44px;
+            }
         }
 
         p {

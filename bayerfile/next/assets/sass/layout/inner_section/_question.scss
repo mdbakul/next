@@ -1,14 +1,7 @@
 .question {
     @extend %p-rel;
-    @include padding(120px 0 140px 0);
 
-    .section__wrapper {
-        @include breakpoint(lg) {
-            max-width: 600px;
-            @include margin-top(45px);
-        }
-
-    }
+    @include padding-bottom(160px);
 
     &__rightimg {
         .item {
@@ -25,15 +18,16 @@
             &.item1 {
                 @include breakpoint(xl) {
                     top: 220px;
-                    right: 60px;
+                    right: 50px;
+
                 }
 
                 @include breakpoint(xxxl) {
-                    right: 200px;
+                    right: 120px;
                 }
 
                 @include breakpoint(xxxxl) {
-                    right: 260px;
+                    right: 240px;
                 }
             }
 
@@ -42,6 +36,12 @@
 
                 @include breakpoint(xl) {
                     display: block;
+                    right: 16%;
+                }
+
+                @include breakpoint(xxxxl) {
+                    display: block;
+                    right: 25%;
                 }
 
                 img {
@@ -62,7 +62,7 @@
     }
 
     &--padingfaqpage {
-        @include padding-bottom(70px);
+        @include padding-bottom(100px);
     }
 
     .working__shape.shape6 {

@@ -1,6 +1,6 @@
 .case {
     @extend %bg-reno, %bg-center, %bg-cover, %rel;
-    @include padding(110px 0 100px 0);
+    @include padding-bottom(100px);
 
     &__slider {
         @extend %mt-60;

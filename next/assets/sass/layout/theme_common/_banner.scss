@@ -92,7 +92,7 @@
             h6 {
                 color: #1E1E1E;
                 text-decoration-line: underline;
-                @extend %font-size-16;
+                @extend %font-size-16, %mb-0;
             }
         }
 

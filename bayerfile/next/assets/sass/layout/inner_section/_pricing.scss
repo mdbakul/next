@@ -1,13 +1,13 @@
 .pricing {
     @extend %rel;
-    @include padding(115px 0 145px 0);
+    @include padding-bottom(145px);
 
     &__wrapper {
         @extend %mt-60;
-        height: 2050px;
+        height: 2150px;
 
         @include breakpoint(md) {
-            height: 1350px;
+            height: 1450px;
         }
 
         @include breakpoint(xl) {
