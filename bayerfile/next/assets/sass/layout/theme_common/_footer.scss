@@ -1,7 +1,11 @@
 .footer {
     @extend %rel;
     @extend %bg-reno, %bg-center, %bg-cover;
-    @include padding-bottom(170px);
+    padding-bottom: 125px;
+
+    @include breakpoint(lg) {
+        @include padding-bottom(170px);
+    }
 
     &__widgets {
         h6 {

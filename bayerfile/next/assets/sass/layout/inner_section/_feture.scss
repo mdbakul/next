@@ -4,11 +4,11 @@
     &__inner {
         @extend %mt-25;
 
-        @include breakpoint(max-sm) {
+        @include breakpoint(max-xl) {
             text-align: center;
         }
 
-        @include breakpoint(sm) {
+        @include breakpoint(xl) {
             display: flex;
             align-items: center;
             gap: 20px;
@@ -25,7 +25,7 @@
                 transition: all 1s ease;
             }
 
-            @include breakpoint(max-sm) {
+            @include breakpoint(max-xl) {
                 margin: auto;
             }
         }
@@ -33,7 +33,7 @@
         .text {
             @extend %mt-20;
 
-            @include breakpoint(sm) {
+            @include breakpoint(xl) {
                 width: calc(100% - 100px);
                 margin-top: 0;
             }
@@ -89,8 +89,9 @@
     }
 
     &--feturepage3 {
+        @include padding(100px 0 120px 0);
 
-        @include breakpoint(xl) {
+        @include breakpoint(xxxl) {
             @include padding(59px 0);
         }
 
@@ -127,4 +128,8 @@
         }
 
     }
+}
+
+.feture_about {
+    @include padding(100px 0 120px 0);
 }

@@ -1,6 +1,11 @@
 .banner {
     @extend %rel;
-    @include padding(119px 0 242px 0);
+    @include padding(150px 0);
+
+    @include breakpoint(lg) {
+        @include padding(119px 0 242px 0);
+    }
+
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -73,6 +78,10 @@
 
     &__btn {
         @extend %mt-37, %flex, %gap-50, %align-items-center;
+
+        @include breakpoint(lg) {
+            gap: 50px;
+        }
 
         >a {
             height: 56px;
@@ -150,11 +159,11 @@
 
         &--rightimage2 {
             @include breakpoint(xl) {
-                right: -11%;
+                right: -14%;
             }
 
             @include breakpoint(xxxxl) {
-                right: -8%;
+                right: -9%;
             }
 
             @include breakpoint(xxxxxl) {
@@ -163,20 +172,17 @@
 
             img {
                 width: 80%;
-
-                @include breakpoint(xxxxl) {
-                    width: 90%
-                }
-
-                @include breakpoint(xxxxxl) {
-                    width: 100%
-                }
             }
         }
     }
 
     &--bannerstyletwo {
-        @include padding-top(240px);
+
+        padding: 160px 0 100px 0;
+
+        @include breakpoint(xl) {
+            @include padding-top(240px);
+        }
 
         .shapeicon {
             @extend %abs;
@@ -193,7 +199,12 @@
     }
 
     &--baner3 {
-        @include padding(235px 0 250px 0);
+        @include padding(150px 0);
+
+        @include breakpoint(xl) {
+            @include padding(235px 0 250px 0);
+        }
+
         @extend %rel;
         z-index: 1;
 
@@ -236,7 +247,7 @@
         &.shape3 {
             @extend %d-none;
 
-            @include breakpoint(sm) {
+            @include breakpoint(lg) {
                 top: 35%;
                 right: 15%;
                 display: block;
@@ -276,12 +287,23 @@
     }
 
     .banner__leftshapepage3 {
-        @extend %abs, %left-0;
-        bottom: -9%;
+        @extend %abs, %d-none;
+
+        @include breakpoint(lg) {
+            bottom: -9%;
+            left: 0;
+            display: block;
+
+        }
     }
 
     .banner__rightshapepage3 {
-        @extend %abs, %right-0;
-        bottom: -9%;
+        @extend %abs, %d-none;
+
+        @include breakpoint(lg) {
+            bottom: -9%;
+            right: 0;
+            display: block;
+        }
     }
 }
