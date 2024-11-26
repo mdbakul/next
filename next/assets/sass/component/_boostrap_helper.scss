@@ -3,8 +3,11 @@
         background: #EFF3FA;
         width: 230px;
         @extend %p-8, %text-center;
-        margin-left: auto;
         border-radius: 10px;
+
+        @include breakpoint(lg) {
+            margin-left: auto;
+        }
 
         nav {
             @extend %text-center;

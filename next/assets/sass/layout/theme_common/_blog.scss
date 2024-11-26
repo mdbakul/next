@@ -1,7 +1,10 @@
 .blog {
-    background: url('..//..//..//img/home1/blog/bgrihgt.png'), url('..//..//..//img/home1/blog/bgtopleft.png');
-    background-repeat: no-repeat;
-    background-position: 102% 0%, 0 -385px;
+    @include breakpoint(sm) {
+        background: url('..//..//..//img/home1/blog/bgrihgt.png'), url('..//..//..//img/home1/blog/bgtopleft.png');
+        background-repeat: no-repeat;
+        background-position: 102% 0%, 0 -385px;
+    }
+
     @extend %rel;
 
     &__inner {
@@ -211,7 +214,7 @@
         &.bullet7 {
             @extend %d-none;
 
-            @include breakpoint(xxl) {
+            @include breakpoint(xxxxl) {
                 right: 120px;
                 bottom: 5%;
                 display: block;

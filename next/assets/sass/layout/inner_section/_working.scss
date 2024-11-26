@@ -88,7 +88,7 @@
 
     &--workingp3 {
         @extend %bg-reno-im, %bg-center-im, %bg-cover-im;
-        @include padding(100px 0);
+        @include padding(120px 0);
 
         @include breakpoint(xxxl) {
             @include padding(340px 0 160px 0);
@@ -132,6 +132,14 @@
             }
         }
 
+        .container {
+            .row {
+                @include breakpoint(max-lg) {
+                    flex-direction: column-reverse;
+                }
+            }
+        }
+
     }
 
     &--aboutpage {
@@ -161,7 +169,11 @@
         flex-direction: column;
 
         .item {
-            @extend %flex, %align-items-center, %gap-25;
+            @extend %flex, %align-items-center, %gap-18;
+
+            @include breakpoint(sm) {
+                gap: 25px;
+            }
 
             .thumb {
                 background: #ffdde3;

@@ -64,7 +64,7 @@
         @extend %mt-60;
 
         >p {
-            @extend %text-center, %mt-55, %black-color;
+            @extend %text-center, %mt-50, %black-color;
 
             @include breakpoint(max-xxxl) {
                 @include margin-top(90px);
@@ -96,19 +96,26 @@
     }
 
     &__btn {
-        @extend %flex, %justify-end;
+        @extend %flex;
+
+        @include breakpoint(lg) {
+            justify-content: flex-end;
+        }
 
         a {
             @extend %white-color;
             width: 180px;
-            margin-left: auto;
+
+            @include breakpoint(lg) {
+                margin-left: auto;
+            }
         }
     }
 
     .row {
 
         .col-xxl-3,
-        .col-lg-6 {
+        .col-md-6 {
             &:nth-child(2) {
                 .services__inner {
                     background: #D2D7FF;
@@ -239,16 +246,12 @@
             .icon {
                 @extend %abs, %left-0, %bg-white, %p-18;
                 box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.10);
-                bottom: 0px;
+                bottom: -35px;
+                left: 7%;
+                border-radius: 10px;
 
                 @include breakpoint(lg) {
                     bottom: -45px;
-                    left: 7%;
-                    border-radius: 10px;
-                }
-
-                @include breakpoint(xxxl) {
-                    bottom: -40px;
                 }
 
                 img {
@@ -258,8 +261,12 @@
         }
 
         .text {
-            @extend %px-25, %pt-60, %pb-35, %bg-white;
+            @extend %px-25, %pt-70, %pb-35, %bg-white;
             border-radius: 0 0 10px 10px;
+
+            @include breakpoint(sm) {
+                padding-top: 60px;
+            }
 
             h6 {
                 a {

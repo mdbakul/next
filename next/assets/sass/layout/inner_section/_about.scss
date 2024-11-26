@@ -3,6 +3,10 @@
 
     @include padding(100px 0 120px 0);
 
+    @include breakpoint(max-sm) {
+        padding-bottom: 30px;
+    }
+
     @include breakpoint(lg) {
         background: url('..//..//..//img/home1/about/shape3.png'),
             url('..//..//..//img/home1/about/shape1.png');
@@ -13,8 +17,13 @@
     position: relative;
 
     @include breakpoint(xl) {
+        background-position: -20% 0%, 100% -30%;
+    }
+
+    @include breakpoint(xxxxl) {
         background-position: 0% 190%, 100% -30%;
     }
+
 
     &__section {
         p {
@@ -118,8 +127,13 @@
         @extend %rel;
 
         .counteritem {
-            @extend %bg2, %abs, %top-4, %left-0, %flex, %px-40, %py-10, %align-items-center, %gap-20;
+            @extend %bg2, %abs, %top-4, %left-40, %flex, %px-40, %py-10, %align-items-center, %gap-20;
             border-radius: 10px;
+
+
+            @include breakpoint(xl) {
+                left: 0;
+            }
 
             h2 {
                 @extend %white-color, %py-10;
@@ -163,7 +177,11 @@
     }
 
     &__counter {
-        @extend %mt-40, %flex, %gap-45, %align-items-center;
+        @extend %mt-40, %flex, %gap-35, %align-items-center;
+
+        @include breakpoint(mlg) {
+            gap: 45px;
+        }
 
         .item {
             @extend %flex, %gap-18, %align-items-center;
@@ -179,6 +197,10 @@
                         @extend %color1, %text-600, %py-2;
                     }
                 }
+
+                >span {
+                    @extend %pt-5, %d-inline-block;
+                }
             }
         }
     }
@@ -187,6 +209,8 @@
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
+
+        @include padding(120px 0 140px 0);
 
         @include breakpoint(xxxl) {
             @include padding-top(210px);
@@ -203,6 +227,14 @@
 
     &--aboutpage2 {
         @include padding(120px 0);
+
+        .container {
+            >.row {
+                @include breakpoint(max-xl) {
+                    flex-direction: column-reverse;
+                }
+            }
+        }
     }
 
     &__bullet {

@@ -8,7 +8,7 @@
   color: #2D50CE;
 }
 
-.casedetails__right ul li p, .teamprofile__personalcontent .data > ul li span, .team__inner .text h6 a, .blog__inner .content ul li a, .accordion-item .accordion-button, h1,
+.casedetails__right ul li p, .teamprofile__personalcontent .data > ul li > span, .team__inner .text h6 a, .blog__inner .content ul li a, .accordion-item .accordion-button, h1,
 h2,
 h3,
 h4,
@@ -46,7 +46,7 @@ a h6,
   background: #00194C;
 }
 
-.casegallery__header ul li.active, .pricing__inner:hover .bottom > a, .team2__inner:hover::after, .team2__inner:hover .thumb::before, .team__inner .thumb .allicon .fixedicon:hover i, .case__item .text .icon a, .contact__details ul li .icon, .about__innerimg .counteritem, .about__ceo .item:last-child .thumb, .tpoffcanvas__close-btn, .header__mobilebar, .header__menu--menu3 .contactnumber a, .header__menu--menu2 nav ul li > ul li.active, .header__menu nav > ul li ul li.active, .header__top .right .headerbtn a, .banner__content > span, .sidebar__alltag .alltaginner a:hover, .blogsingle__content .quode, .blogsingle__pagi ul li:last-child a:hover, .blogsingle__pagi ul li:first-child a, .orginalsearch__area button, .button_style2, .playbtn_animation::before, .playbtn_animation::after, .accordion-item .accordion-button:not(.collapsed) .plus-icon:after, .accordion-item .accordion-button:not(.collapsed), .accordion-item .accordion-button .plus-icon {
+.casegallery__header ul li.active, .pricing__inner:hover .bottom > a, .team2__inner:hover::after, .team2__inner:hover .thumb::before, .team__inner .thumb .allicon .fixedicon:hover i, .contact__details ul li .icon, .about__innerimg .counteritem, .about__ceo .item:last-child .thumb, .tpoffcanvas__close-btn, .header__mobilebar, .header__menu--menu3 .contactnumber a, .header__menu--menu2 nav ul li > ul li.active, .header__menu nav > ul li ul li.active, .header__top .right .headerbtn a, .banner__content > span, .sidebar__alltag .alltaginner a:hover, .blogsingle__content .quode, .blogsingle__pagi ul li:last-child a:hover, .blogsingle__pagi ul li:first-child a, .orginalsearch__area button, .button_style2, .playbtn_animation::before, .playbtn_animation::after, .accordion-item .accordion-button:not(.collapsed) .plus-icon:after, .accordion-item .accordion-button:not(.collapsed), .accordion-item .accordion-button .plus-icon {
   background: #2D50CE;
 }
 
@@ -162,7 +162,7 @@ a h6 {
   opacity: 1;
 }
 
-.client__shape.shape8, .client__shape.shape7, .client__shape.shape6, .client__shape.shape5, .client__shape.shape4, .client__shape.shape3, .client__shape.shape2, .client__shape.shape1, .question .working__shape.shape7, .question .working__shape.shape6, .question__rightimg .item.item2, .pricing__bullet.bullet8, .pricing__bullet.bullet7, .pricing__bullet.bullet6, .pricing__bullet.bullet5, .pricing__bullet.bullet4, .pricing__bullet.bullet3, .pricing__bullet.bullet2, .pricing__bullet.bullet1, .working__shape.shape8, .working__shape.shape7, .working__shape.shape6, .working__shape.shape5, .working__shape.shape4, .working__shape.shape3, .working__shape.shape2, .working__shape.shape1, .working--aboutpage .working__item.item2, .working--workingp3 .working__item.item2, .overview__leftimg .item.item3, .overview__leftimg .item.item2, .case__bullet.bullet6, .case__bullet.bullet5, .case__bullet.bullet4, .case__bullet.bullet3, .case__bullet.bullet2, .case__bullet.bullet1, .cousult__content .rihgtimg, .feture__shape.shape1, .about__bullet.bullet4, .about__bullet.bullet3, .about__bullet.bullet2, .about__bullet.bullet1, .about .bottomshape, .header__bottom--header2.header-fixed .ellepsis, .header__bottom.header-fixed .ellepsis, .banner .shape.shape6, .banner .shape.shape5, .banner .shape.shape4, .banner .shape.shape3, .banner .shape.shape2, .banner .shape.shape1, .banner__image, .footer__bullet.bullet4, .footer__bullet.bullet3, .footer__bullet.bullet2, .footer__bullet.bullet1, .blog__bullet.bullet8, .blog__bullet.bullet7, .blog__bullet.bullet6, .blog__bullet.bullet5, .blog__bullet.bullet4, .blog__bullet.bullet3, .blog__bullet.bullet2, .blog__bullet.bullet1, .preloader__with-text, .accordion-item .accordion-button:after {
+.client__shape.shape8, .client__shape.shape7, .client__shape.shape6, .client__shape.shape5, .client__shape.shape4, .client__shape.shape3, .client__shape.shape2, .client__shape.shape1, .question .working__shape.shape7, .question .working__shape.shape6, .question__rightimg .item.item2, .pricing__bullet.bullet8, .pricing__bullet.bullet7, .pricing__bullet.bullet6, .pricing__bullet.bullet5, .pricing__bullet.bullet4, .pricing__bullet.bullet3, .pricing__bullet.bullet2, .pricing__bullet.bullet1, .working__shape.shape8, .working__shape.shape7, .working__shape.shape6, .working__shape.shape5, .working__shape.shape4, .working__shape.shape3, .working__shape.shape2, .working__shape.shape1, .working--aboutpage .working__item.item2, .working--workingp3 .working__item.item2, .overview__leftimg .item.item3, .overview__leftimg .item.item2, .case__bullet.bullet6, .case__bullet.bullet5, .case__bullet.bullet4, .case__bullet.bullet3, .case__bullet.bullet2, .case__bullet.bullet1, .case__item .text .icon, .cousult__content .rihgtimg, .feture__shape.shape1, .about__bullet.bullet4, .about__bullet.bullet3, .about__bullet.bullet2, .about__bullet.bullet1, .about .bottomshape, .header__bottom--header2.header-fixed .ellepsis, .header__bottom.header-fixed .ellepsis, .banner .banner__rightshapepage3, .banner .banner__leftshapepage3, .banner .shape.shape6, .banner .shape.shape5, .banner .shape.shape4, .banner .shape.shape3, .banner .shape.shape2, .banner .shape.shape1, .banner__image, .footer__bullet.bullet4, .footer__bullet.bullet3, .footer__bullet.bullet2, .footer__bullet.bullet1, .blog__bullet.bullet8, .blog__bullet.bullet7, .blog__bullet.bullet6, .blog__bullet.bullet5, .blog__bullet.bullet4, .blog__bullet.bullet3, .blog__bullet.bullet2, .blog__bullet.bullet1, .preloader__with-text, .accordion-item .accordion-button:after {
   display: none;
 }
 
@@ -170,7 +170,7 @@ a h6 {
   display: block;
 }
 
-.pricing__inner .bottom > a, .teamprofile__personalcontent .data > ul li span, .teamprofile__personalcontent span, .team2__inner .text .social a, .team__inner .thumb .allicon ul li a, .overview__count .item .text h4 span, .cousult__content a, .sidebar__services .desk a, .sidebar__widgets .title h4, .services2__item .text a, .services__inner .text a, .contact__details ul li .text span, .section__title span, .tpoffcanvas__social ul li a, .header__menu nav > ul li ul li a, .banner__content h2 span, .banner__content > span, .footer__widgets .popular_post ul li .text span, .footer__widgets .footer_contact ul li .text span, .footer__widgets .socialicon a, .sidebar__alltag .alltaginner a, .sidebar__popular .desk ul li .text span, .blogsingle__leavecoments--addreview .formarea form .reviewbtn .allreview, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name span, .blogsingle__author .author-content .text span, .blogsingle__content .tagbutton-icon .tagicon ul li a, .blogsingle__pagi ul li a, .blog__inner .content > a, .button_style2 {
+.pricing__inner .bottom > a, .teamprofile__personalcontent .data > ul li > span, .teamprofile__personalcontent span, .team2__inner .text .social a, .team__inner .thumb .allicon ul li a, .overview__count .item .text h4 span, .cousult__content a, .sidebar__services .desk a, .sidebar__widgets .title h4, .services2__item .text a, .services__inner .text a, .contact__details ul li .text span, .about__counter .item .text > span, .section__title span, .tpoffcanvas__social ul li a, .header__menu nav > ul li ul li a, .banner__content h2 span, .banner__content > span, .footer__widgets .popular_post ul li .text span, .footer__widgets .footer_contact ul li .text span, .footer__widgets .socialicon a, .sidebar__alltag .alltaginner a, .sidebar__popular .desk ul li .text span, .blogsingle__leavecoments--addreview .formarea form .reviewbtn .allreview, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name span, .blogsingle__author .author-content .text span, .blogsingle__content .tagbutton-icon .tagicon ul li a, .blogsingle__pagi ul li a, .blog__inner .content > a, .button_style2 {
   display: inline-block;
 }
 
@@ -198,7 +198,7 @@ a h6 {
   align-items: center;
 }
 
-.services__btn, .header__menu nav > ul {
+.header__menu nav > ul {
   justify-content: flex-end;
 }
 
@@ -214,7 +214,7 @@ a h6 {
   transition: all 0.3s ease;
 }
 
-.team2__inner, .team__inner .thumb .allicon ul, .case__item .text .icon a, .header__bottom.header-fixed, .footer__widgets .footer_services ul li a i, .footer__widgets .footer_services ul li a {
+.team2__inner, .team__inner .thumb .allicon ul, .header__bottom.header-fixed, .footer__widgets .footer_services ul li a i, .footer__widgets .footer_services ul li a {
   transition: all 0.5s ease;
 }
 
@@ -236,7 +236,7 @@ a h6 {
   position: relative;
 }
 
-.client__shape, .casegallery__photoitem .inner_text, .pricing__bullet, .pricing__inner .top::after, .team2__inner::after, .team2__inner .thumb::before, .team__inner .thumb::after, .team__inner .thumb .allicon, .working__shape, .case__bullet, .case__item .text .icon a svg, .case__item .text .icon a, .services2__item .thumb .icon, .feture__shape, .about__bullet, .about__innerimg .counteritem, .menu-item-has-children > a::before, .menu-item-has-children > a::after, .banner .banner__rightshapepage3, .banner .banner__leftshapepage3, .banner .shape, .banner--baner3::after, .banner--bannerstyletwo .shapeicon, .banner__rightimage, .footer__bullet, .footer__copyright, .sidebar__search form button, .blog__bullet, .preloader__title-2::before, .preloader__bar-inner, #loading-center-absolute, .orginalsearch__area button, .light-color::after, .playbtn_animation::before, .playbtn_animation::after, .msg, .accordion-item .accordion-button .plus-icon:before, .accordion-item .accordion-button .plus-icon:after,
+.client__shape, .casegallery__photoitem .inner_text, .pricing__bullet, .pricing__inner .top::after, .team2__inner::after, .team2__inner .thumb::before, .team__inner .thumb::after, .team__inner .thumb .allicon, .working__shape, .case__bullet, .case__item .text .icon a svg, .services2__item .thumb .icon, .feture__shape, .about__bullet, .about__innerimg .counteritem, .menu-item-has-children > a::before, .menu-item-has-children > a::after, .banner .banner__rightshapepage3, .banner .banner__leftshapepage3, .banner .shape, .banner--baner3::after, .banner--bannerstyletwo .shapeicon, .banner__rightimage, .footer__bullet, .footer__copyright, .sidebar__search form button, .blog__bullet, .preloader__title-2::before, .preloader__bar-inner, #loading-center-absolute, .orginalsearch__area button, .light-color::after, .playbtn_animation::before, .playbtn_animation::after, .msg, .accordion-item .accordion-button .plus-icon:before, .accordion-item .accordion-button .plus-icon:after,
 .orginalsearch__area,
 .orginalsearch .closer {
   position: absolute;
@@ -251,7 +251,7 @@ a h6 {
   cursor: pointer;
 }
 
-.skill__item:last-child, .client__item .content .name ul, .client__item .content .name h6, .casedetails__right ul li p, .counter__inner .counting h2 span, .counter__inner .counting h2, .testmonial__inner--innerp3 .profile .left .text h6, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .testmonial__inner .profile .name h6, .pricing__inner .top h6, .teamprofile__Guidelines p, .teamprofile__year p:last-child, .teamprofile__experience p:last-child, .teamprofile__personalcontent .data > ul li p, .team__inner .text h6, .case__item .text h6, .sidebar__need .desk > .text ul li .text h6, .sidebar__need .desk > .text ul li:last-child, .sidebar__need .desk > .text ul, .contact__details ul li:last-child, .about__counter .item .text h4, .about__ceo .item .text h6, .tpoffcanvas__contact ul li:last-child, .header__menu nav > ul, .banner__btn .icon h6, .footer__widgets--widgets2 .footer_services ul li:last-child, .footer__widgets .popular_post ul li .text h6, .footer__widgets .footer_contact ul li:last-child, .footer__widgets .footer_services ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li .text h6, .sidebar__popular .desk ul li:last-child, .blogsingle__reletedpost .content .text h6, .blogsingle__comments .content ul li .commentsarea p, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name h6, .blogsingle__author .author-content .text h6, .accordion-item .accordion-button {
+.skill__item:last-child, .client__item .content .name ul, .client__item .content .name h6, .casedetails__right ul li p, .counter__inner .counting h2 span, .counter__inner .counting h2, .testmonial__inner--innerp3 .profile .left .text h6, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .testmonial__inner .profile .name h6, .pricing__inner .top h6, .teamprofile__Guidelines p, .teamprofile__year p:last-child, .teamprofile__experience p:last-child, .teamprofile__personalcontent .data > ul li p, .teamprofile__personalcontent h4, .team__inner .text h6, .case__item .text h6, .sidebar__need .desk > .text ul li .text h6, .sidebar__need .desk > .text ul li:last-child, .sidebar__need .desk > .text ul, .contact__details ul li:last-child, .about__counter .item .text h4, .about__ceo .item .text h6, .tpoffcanvas__contact ul li:last-child, .header__menu nav > ul, .banner__btn .icon h6, .footer__widgets--widgets2 .footer_services ul li:last-child, .footer__widgets .popular_post ul li .text h6, .footer__widgets .footer_contact ul li:last-child, .footer__widgets .footer_services ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li .text h6, .sidebar__popular .desk ul li:last-child, .blogsingle__reletedpost .content .text h6, .blogsingle__comments .content ul li .commentsarea p, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name h6, .blogsingle__author .author-content .text h6, .accordion-item .accordion-button {
   margin-bottom: 0;
 }
 
@@ -284,7 +284,7 @@ a h6 {
   background-size: cover !important;
 }
 
-.footer__widgets .popular_post ul li .text h6, .sidebar__popular .desk ul li .text h6 a, .sidebar__popular .desk ul li .text h6, .blog__inner .content h6 {
+.case__item .text h6 a, .footer__widgets .popular_post ul li .text h6, .sidebar__popular .desk ul li .text h6 a, .sidebar__popular .desk ul li .text h6, .blog__inner .content h6 {
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
@@ -470,19 +470,23 @@ select {
 /*--
     - all Margin 
 -----------------------------------------*/
-.testmonial__inner .profile .name p, .section__title p, .blogsingle__leavecoments--addreview .formarea form .reviewbtn button, #loading {
+.testmonial__inner .profile .name p, .teamprofile__personalcontent .data > ul li > span, .section__title p, .blogsingle__leavecoments--addreview .formarea form .reviewbtn button, #loading {
   margin-top: 0rem;
+}
+
+.teamprofile__personalcontent span {
+  margin-top: 0.125rem;
 }
 
 .casegallery__photoitem .inner_text h6 a, .footer__widgets .popular_post ul li .text span, .sidebar__popular .desk ul li .text span {
   margin-top: 0.1875rem;
 }
 
-.teamprofile__personalcontent span, .case__item .text h6 a, .banner__content p {
+.case__item .text h6 a, .banner__content p {
   margin-top: 0.3125rem;
 }
 
-.cousult__content a, .services__inner .text a, .blogsingle__comments .content ul li .commentsarea p {
+.team2__inner .text p, .cousult__content a, .services__inner .text a, .blogsingle__comments .content ul li .commentsarea p {
   margin-top: 0.625rem;
 }
 
@@ -537,11 +541,11 @@ select {
   }
 }
 
-.team2__inner .text, .servicesingle__body .item:last-child, .servicesingle__body .item .text, .form_btn {
+.servicesingle__body .item:last-child, .servicesingle__body .item .text, .form_btn {
   margin-top: calc(1.34375rem + 1.125vw);
 }
 @media (min-width: 1200px) {
-  .team2__inner .text, .servicesingle__body .item:last-child, .servicesingle__body .item .text, .form_btn {
+  .servicesingle__body .item:last-child, .servicesingle__body .item .text, .form_btn {
     margin-top: 2.1875rem;
   }
 }
@@ -555,38 +559,38 @@ select {
   }
 }
 
-.overview__count, .about__counter, .tpoffcanvas__social, .tpoffcanvas__contact, .tpoffcanvas__allimg {
+.team2__inner .text, .overview__count, .about__counter, .tpoffcanvas__social, .tpoffcanvas__contact, .tpoffcanvas__allimg {
   margin-top: calc(1.375rem + 1.5vw);
 }
 @media (min-width: 1200px) {
-  .overview__count, .about__counter, .tpoffcanvas__social, .tpoffcanvas__contact, .tpoffcanvas__allimg {
+  .team2__inner .text, .overview__count, .about__counter, .tpoffcanvas__social, .tpoffcanvas__contact, .tpoffcanvas__allimg {
     margin-top: 2.5rem;
   }
 }
 
-.footer__widgets .socialicon, .blog__wrapper {
+.services__wrapper > p, .footer__widgets .socialicon, .blog__wrapper {
   margin-top: calc(1.4375rem + 2.25vw);
 }
 @media (min-width: 1200px) {
-  .footer__widgets .socialicon, .blog__wrapper {
+  .services__wrapper > p, .footer__widgets .socialicon, .blog__wrapper {
     margin-top: 3.125rem;
   }
 }
 
-.working__allitem, .services__wrapper > p {
+.working__allitem {
   margin-top: calc(1.46875rem + 2.625vw);
 }
 @media (min-width: 1200px) {
-  .working__allitem, .services__wrapper > p {
+  .working__allitem {
     margin-top: 3.4375rem;
   }
 }
 
-.casegallery__wrapper, .testmonial__wrapper, .pricing__wrapper, .team__wrapper, .working__wrapper, .case__slider, .services__wrapper {
+.casegallery__wrapper, .testmonial__wrapper, .team__wrapper, .working__wrapper, .case__slider, .services__wrapper {
   margin-top: calc(1.5rem + 3vw);
 }
 @media (min-width: 1200px) {
-  .casegallery__wrapper, .testmonial__wrapper, .pricing__wrapper, .team__wrapper, .working__wrapper, .case__slider, .services__wrapper {
+  .casegallery__wrapper, .testmonial__wrapper, .team__wrapper, .working__wrapper, .case__slider, .services__wrapper {
     margin-top: 3.75rem;
   }
 }
@@ -600,12 +604,16 @@ select {
   }
 }
 
-.skill__item:last-child, .client__item .content .name ul, .client__item .content .name h6, .casedetails__right ul li p, .counter__inner .counting h2 span, .counter__inner .counting h2, .testmonial__inner--innerp3 .profile .left .text h6, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .testmonial__inner .profile .name h6, .pricing__inner .top h6, .teamprofile__Guidelines p, .teamprofile__year p:last-child, .teamprofile__experience p:last-child, .teamprofile__personalcontent .data > ul li p, .team__inner .text h6, .case__item .text h6, .sidebar__need .desk > .text ul li .text h6, .sidebar__need .desk > .text ul li:last-child, .sidebar__need .desk > .text ul, .contact__details ul li:last-child, .about__counter .item .text h4, .about__ceo .item .text h6, .tpoffcanvas__contact ul li:last-child, .header__menu nav > ul, .banner__btn .icon h6, .footer__widgets--widgets2 .footer_services ul li:last-child, .footer__widgets .popular_post ul li .text h6, .footer__widgets .footer_contact ul li:last-child, .footer__widgets .footer_services ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li .text h6, .sidebar__popular .desk ul li:last-child, .blogsingle__reletedpost .content .text h6, .blogsingle__comments .content ul li .commentsarea p, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name h6, .blogsingle__author .author-content .text h6, .accordion-item .accordion-button {
+.skill__item:last-child, .client__item .content .name ul, .client__item .content .name h6, .casedetails__right ul li p, .counter__inner .counting h2 span, .counter__inner .counting h2, .testmonial__inner--innerp3 .profile .left .text h6, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .testmonial__inner .profile .name h6, .pricing__inner .top h6, .teamprofile__Guidelines p, .teamprofile__year p:last-child, .teamprofile__experience p:last-child, .teamprofile__personalcontent .data > ul li p, .teamprofile__personalcontent h4, .team__inner .text h6, .case__item .text h6, .sidebar__need .desk > .text ul li .text h6, .sidebar__need .desk > .text ul li:last-child, .sidebar__need .desk > .text ul, .contact__details ul li:last-child, .about__counter .item .text h4, .about__ceo .item .text h6, .tpoffcanvas__contact ul li:last-child, .header__menu nav > ul, .banner__btn .icon h6, .footer__widgets--widgets2 .footer_services ul li:last-child, .footer__widgets .popular_post ul li .text h6, .footer__widgets .footer_contact ul li:last-child, .footer__widgets .footer_services ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li .text h6, .sidebar__popular .desk ul li:last-child, .blogsingle__reletedpost .content .text h6, .blogsingle__comments .content ul li .commentsarea p, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name h6, .blogsingle__author .author-content .text h6, .accordion-item .accordion-button {
   margin-bottom: 0rem;
 }
 
 .case__item .text p {
   margin-bottom: 0.0625rem;
+}
+
+.team2__inner .text h6 {
+  margin-bottom: 0.1875rem;
 }
 
 .skill__header h3, .section__title span {
@@ -741,6 +749,10 @@ select {
   padding-top: 0.1875rem;
 }
 
+.about__counter .item .text > span {
+  padding-top: 0.3125rem;
+}
+
 .services2__item .text p {
   padding-top: 0.4375rem;
 }
@@ -753,12 +765,21 @@ select {
   padding-top: 0.9375rem;
 }
 
-.services2__item .text {
+.pricing__wrapper {
   padding-top: calc(1.5rem + 3vw);
 }
 @media (min-width: 1200px) {
-  .services2__item .text {
+  .pricing__wrapper {
     padding-top: 3.75rem;
+  }
+}
+
+.services2__item .text {
+  padding-top: calc(1.5625rem + 3.75vw);
+}
+@media (min-width: 1200px) {
+  .services2__item .text {
+    padding-top: 4.375rem;
   }
 }
 
@@ -879,7 +900,7 @@ select {
   padding-inline: 20px;
 }
 
-.sidebar__services .desk a, .sidebar__widgets .title h4, .services2__item .text, .sidebar__catagory .content {
+.pricing__inner .bottom, .sidebar__services .desk a, .sidebar__widgets .title h4, .services2__item .text, .sidebar__catagory .content {
   padding-inline: 25px;
 }
 
@@ -889,10 +910,6 @@ select {
 
 .casegallery__photoitem .inner_text, .sidebar__need .desk, .sidebar__brochure .desk, .contact__form {
   padding-inline: 30px;
-}
-
-.pricing__inner .bottom {
-  padding-inline: 35px;
 }
 
 .about__innerimg .counteritem {
@@ -995,7 +1012,7 @@ select {
   width: 80px;
 }
 
-.case__item .text .icon a, .sidebar__popular .desk ul li .thumb {
+.sidebar__popular .desk ul li .thumb {
   width: 85px;
 }
 
@@ -1017,7 +1034,7 @@ select {
   width: 40%;
 }
 
-.skill__item .skillbar-container, .skill__item, .casedetails__thumb img, .casegallery__photoitem img, .testmonial__inner .profile .thumb img, .pricing__inner .bottom > a, .pricing__inner .top::after, .teamprofile__img img, .team2__inner .thumb img, .team__inner .thumb::after, .team__inner .thumb img, .case__item .thumb img, .sidebar__services .desk a, .sidebar__widgets .title h4, .servicesingle__body .item img, .book__form textarea, .book__form input, .map iframe, .contact__form textarea, .contact__form input, .about__counter .item .text h4, .about__innerimg--innerimgpage2 img, .tpoffcanvas, .header__menu nav > ul li ul li a, .banner--baner3::after, .footer__copyright, .sidebar__catagory .content ul li, .sidebar__search form input, .blogsingle__leavecoments .formarea form textarea, .blogsingle__leavecoments .formarea form input, .blogsingle__comments .content ul li .img img, .blogsingle__author .author-content .thum img, .blog__inner .thumb a img, #loading-center, #loading, .orginalsearch, .light-color::after, .sponsor__item img, .svg-container,
+.skill__item .skillbar-container, .skill__item, .casedetails__thumb img, .casegallery__photoitem img, .testmonial__inner .profile .thumb img, .pricing__inner .bottom > a, .pricing__inner .top::after, .teamprofile__img img, .team__inner .thumb::after, .team__inner .thumb img, .case__item .thumb img, .sidebar__services .desk a, .sidebar__widgets .title h4, .servicesingle__body .item img, .book__form textarea, .book__form input, .map iframe, .contact__form textarea, .contact__form input, .about__counter .item .text h4, .about__innerimg--innerimgpage2 img, .tpoffcanvas, .header__menu nav > ul li ul li a, .banner--baner3::after, .footer__copyright, .sidebar__catagory .content ul li, .sidebar__search form input, .blogsingle__leavecoments .formarea form textarea, .blogsingle__leavecoments .formarea form input, .blogsingle__comments .content ul li .img img, .blogsingle__author .author-content .thum img, .blog__inner .thumb a img, #loading-center, #loading, .orginalsearch, .light-color::after, .sponsor__item img, .svg-container,
 .text-container {
   width: 100%;
 }
@@ -1084,10 +1101,6 @@ select {
   height: 80px;
 }
 
-.case__item .text .icon a {
-  height: 85px;
-}
-
 .blogsingle__content .quode .icon {
   height: 90px;
 }
@@ -1147,7 +1160,7 @@ select {
   font-weight: 500;
 }
 
-.skill__item .skill-title .right span, .skill__item .skill-title .left, .casegallery__photoitem .inner_text h6 a, .casegallery__header ul li, .counter__inner .counting > span, .teamprofile__personalcontent .data > ul li span, .overview__count .item .text h4 span, .sidebar__widgets .title h4, .services__inner .text a, .services__inner .text h6, .about__counter .item .text h4 span, .about__innerimg .counteritem h2 span, .section__title h3, .section__title span, .header__menu--menu3 .contactnumber a, .header__top .right .headerbtn a, .banner__btn > a span, .banner__content h2 span, .banner__content h2, .blogsingle__content .tagbutton-icon .tagicon ul li:first-child, .blogsingle__content .tagbutton-icon .tagbutton ul li:first-child, .blogsingle__pagi ul li a, .text-container .btntext, .button_style2, .button, .accordion-item .accordion-button, h1,
+.skill__item .skill-title .right span, .skill__item .skill-title .left, .casegallery__photoitem .inner_text h6 a, .casegallery__header ul li, .counter__inner .counting > span, .teamprofile__personalcontent .data > ul li > span, .overview__count .item .text h4 span, .sidebar__widgets .title h4, .services__inner .text a, .services__inner .text h6, .about__counter .item .text h4 span, .about__innerimg .counteritem h2 span, .section__title h3, .section__title span, .header__menu--menu3 .contactnumber a, .header__top .right .headerbtn a, .banner__btn > a span, .banner__content h2 span, .banner__content h2, .blogsingle__content .tagbutton-icon .tagicon ul li:first-child, .blogsingle__content .tagbutton-icon .tagbutton ul li:first-child, .blogsingle__pagi ul li a, .text-container .btntext, .button_style2, .button, .accordion-item .accordion-button, h1,
 h2,
 h3,
 h4,
@@ -1207,7 +1220,7 @@ a h6 {
   top: 70%;
 }
 
-.pricing__inner .top::after, .team2__inner::after, .team__inner .thumb::after, .services2__item .thumb .icon, .about__innerimg .counteritem, .banner .banner__leftshapepage3, .banner--baner3::after, .footer__copyright, .preloader__title-2::before, .preloader__bar-inner, .orginalsearch, .light-color::after {
+.pricing__inner .top::after, .team2__inner::after, .team__inner .thumb::after, .services2__item .thumb .icon, .banner--baner3::after, .footer__copyright, .preloader__title-2::before, .preloader__bar-inner, .orginalsearch, .light-color::after {
   left: 0%;
 }
 
@@ -1223,6 +1236,10 @@ a h6 {
   left: 35%;
 }
 
+.about__innerimg .counteritem {
+  left: 40%;
+}
+
 .overview__leftimg .item.item1 {
   left: 45%;
 }
@@ -1235,7 +1252,7 @@ a h6 {
   left: 85%;
 }
 
-.tpoffcanvas.opened, .banner .banner__rightshapepage3, .orginalsearch__area button {
+.tpoffcanvas.opened, .orginalsearch__area button {
   right: 0%;
 }
 
@@ -1278,7 +1295,7 @@ a h6 {
   gap: 15px;
 }
 
-.about__counter .item {
+.working__allitem .item, .about__counter .item {
   gap: 18px;
 }
 
@@ -1286,20 +1303,16 @@ a h6 {
   gap: 20px;
 }
 
-.working__allitem .item {
-  gap: 25px;
-}
-
 .sidebar__need .desk > .text ul li {
   gap: 30px;
 }
 
-.working__allitem, .overview__count {
-  gap: 40px;
+.about__counter {
+  gap: 35px;
 }
 
-.about__counter {
-  gap: 45px;
+.working__allitem, .overview__count {
+  gap: 40px;
 }
 
 .banner__btn {
@@ -1352,8 +1365,12 @@ a h6 {
 .pricing__tab {
   background: #EFF3FA;
   width: 230px;
-  margin-left: auto;
   border-radius: 10px;
+}
+@media (min-width: 992px) {
+  .pricing__tab {
+    margin-left: auto;
+  }
 }
 .pricing__tab nav .nav {
   border-bottom: none;
@@ -1825,18 +1842,18 @@ a h6 {
 }
 
 .animation {
-  animation: mymove 5s infinite;
-  animation-duration: 5s;
+  animation: mymove 6s infinite;
+  animation-duration: 6s;
   animation-iteration-count: infinite;
-  animation-delay: 3s;
+  animation-delay: 2s;
 }
 @keyframes mymove {
   0% {
     left: 0px;
   }
   50% {
-    left: 50px;
-    @media (min-width: 576px) {
+    left: 150px;
+    @media (min-width: 1200px) {
       .animation {
         left: 100px;
       }
@@ -2055,10 +2072,12 @@ a h6 {
     width: 100%;
   }
 }
-.blog {
-  background: url("..//..//..//img/home1/blog/bgrihgt.png"), url("..//..//..//img/home1/blog/bgtopleft.png");
-  background-repeat: no-repeat;
-  background-position: 102% 0%, 0 -385px;
+@media (min-width: 576px) {
+  .blog {
+    background: url("..//..//..//img/home1/blog/bgrihgt.png"), url("..//..//..//img/home1/blog/bgtopleft.png");
+    background-repeat: no-repeat;
+    background-position: 102% 0%, 0 -385px;
+  }
 }
 .blog__inner {
   box-shadow: 0px 8px 10px 0px #F5F7F8;
@@ -2154,7 +2173,7 @@ a h6 {
     display: block;
   }
 }
-@media (min-width: 1366px) {
+@media (min-width: 1440px) {
   .blog__bullet.bullet7 {
     right: 120px;
     bottom: 5%;
@@ -2542,9 +2561,14 @@ a h6 {
 }
 
 .footer {
-  padding-bottom: calc(2.1875rem + 11.25vw);
+  padding-bottom: 125px;
 }
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
+  .footer {
+    padding-bottom: calc(2.1875rem + 11.25vw);
+  }
+}
+@media (min-width: 992px) and (min-width: 1200px) {
   .footer {
     padding-bottom: 10.625rem;
   }
@@ -2660,12 +2684,22 @@ a h6 {
 }
 
 .banner {
-  padding: calc(1.86875rem + 7.425vw) 0 calc(2.6375rem + 16.65vw) 0;
+  padding: calc(2.0625rem + 9.75vw) 0;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 @media (min-width: 1200px) {
+  .banner {
+    padding: 9.375rem 0;
+  }
+}
+@media (min-width: 992px) {
+  .banner {
+    padding: calc(1.86875rem + 7.425vw) 0 calc(2.6375rem + 16.65vw) 0;
+  }
+}
+@media (min-width: 992px) and (min-width: 1200px) {
   .banner {
     padding: 7.4375rem 0 15.125rem 0;
   }
@@ -2720,6 +2754,11 @@ a h6 {
     margin: auto;
   }
 }
+@media (min-width: 992px) {
+  .banner__btn {
+    gap: 50px;
+  }
+}
 .banner__btn > a {
   height: 56px;
   width: 180px;
@@ -2761,12 +2800,12 @@ a h6 {
 }
 @media (min-width: 1200px) {
   .banner__rightimage--rightimage2 {
-    right: -11%;
+    right: -14%;
   }
 }
 @media (min-width: 1440px) {
   .banner__rightimage--rightimage2 {
-    right: -8%;
+    right: -9%;
   }
 }
 @media (min-width: 1600px) {
@@ -2777,20 +2816,15 @@ a h6 {
 .banner__rightimage--rightimage2 img {
   width: 80%;
 }
-@media (min-width: 1440px) {
-  .banner__rightimage--rightimage2 img {
-    width: 90%;
-  }
-}
-@media (min-width: 1600px) {
-  .banner__rightimage--rightimage2 img {
-    width: 100%;
-  }
-}
 .banner--bannerstyletwo {
-  padding-top: calc(2.625rem + 16.5vw);
+  padding: 160px 0 100px 0;
 }
 @media (min-width: 1200px) {
+  .banner--bannerstyletwo {
+    padding-top: calc(2.625rem + 16.5vw);
+  }
+}
+@media (min-width: 1200px) and (min-width: 1200px) {
   .banner--bannerstyletwo {
     padding-top: 15rem;
   }
@@ -2799,10 +2833,20 @@ a h6 {
   left: -9%;
 }
 .banner--baner3 {
-  padding: calc(2.59375rem + 16.125vw) 0 calc(2.6875rem + 17.25vw) 0;
+  padding: calc(2.0625rem + 9.75vw) 0;
   z-index: 1;
 }
 @media (min-width: 1200px) {
+  .banner--baner3 {
+    padding: 9.375rem 0;
+  }
+}
+@media (min-width: 1200px) {
+  .banner--baner3 {
+    padding: calc(2.59375rem + 16.125vw) 0 calc(2.6875rem + 17.25vw) 0;
+  }
+}
+@media (min-width: 1200px) and (min-width: 1200px) {
   .banner--baner3 {
     padding: 14.6875rem 0 15.625rem 0;
   }
@@ -2830,7 +2874,7 @@ a h6 {
     display: block;
   }
 }
-@media (min-width: 576px) {
+@media (min-width: 992px) {
   .banner .shape.shape3 {
     top: 35%;
     right: 15%;
@@ -2858,11 +2902,19 @@ a h6 {
     display: block;
   }
 }
-.banner .banner__leftshapepage3 {
-  bottom: -9%;
+@media (min-width: 992px) {
+  .banner .banner__leftshapepage3 {
+    bottom: -9%;
+    left: 0;
+    display: block;
+  }
 }
-.banner .banner__rightshapepage3 {
-  bottom: -9%;
+@media (min-width: 992px) {
+  .banner .banner__rightshapepage3 {
+    bottom: -9%;
+    right: 0;
+    display: block;
+  }
 }
 
 .header {
@@ -3328,6 +3380,11 @@ a h6 {
     padding: 6.25rem 0 7.5rem 0;
   }
 }
+@media (max-width: 575px) {
+  .about {
+    padding-bottom: 30px;
+  }
+}
 @media (min-width: 992px) {
   .about {
     background: url("..//..//..//img/home1/about/shape3.png"), url("..//..//..//img/home1/about/shape1.png");
@@ -3336,6 +3393,11 @@ a h6 {
   }
 }
 @media (min-width: 1200px) {
+  .about {
+    background-position: -20% 0%, 100% -30%;
+  }
+}
+@media (min-width: 1440px) {
   .about {
     background-position: 0% 190%, 100% -30%;
   }
@@ -3387,6 +3449,11 @@ a h6 {
 .about__innerimg .counteritem {
   border-radius: 10px;
 }
+@media (min-width: 1200px) {
+  .about__innerimg .counteritem {
+    left: 0;
+  }
+}
 .about__innerimg .counteritem h2 span {
   font-size: 40px;
 }
@@ -3407,6 +3474,11 @@ a h6 {
     display: block;
   }
 }
+@media (min-width: 1024px) {
+  .about__counter {
+    gap: 45px;
+  }
+}
 .about__counter .item .text {
   width: 150px;
 }
@@ -3417,6 +3489,12 @@ a h6 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  padding: calc(1.875rem + 7.5vw) 0 calc(2rem + 9vw) 0;
+}
+@media (min-width: 1200px) {
+  .about--page3 {
+    padding: 7.5rem 0 8.75rem 0;
+  }
 }
 @media (min-width: 1400px) {
   .about--page3 {
@@ -3439,6 +3517,11 @@ a h6 {
 @media (min-width: 1200px) {
   .about--aboutpage2 {
     padding: 7.5rem 0;
+  }
+}
+@media (max-width: 1199px) {
+  .about--aboutpage2 .container > .row {
+    flex-direction: column-reverse;
   }
 }
 @media (min-width: 1200px) {
@@ -3583,12 +3666,12 @@ a h6 {
 .book__form textarea {
   background: #F2F6F9;
 }
-@media (max-width: 575px) {
+@media (max-width: 1199px) {
   .feture__inner {
     text-align: center;
   }
 }
-@media (min-width: 576px) {
+@media (min-width: 1200px) {
   .feture__inner {
     display: flex;
     align-items: center;
@@ -3604,12 +3687,12 @@ a h6 {
 .feture__inner .icon img {
   transition: all 1s ease;
 }
-@media (max-width: 575px) {
+@media (max-width: 1199px) {
   .feture__inner .icon {
     margin: auto;
   }
 }
-@media (min-width: 576px) {
+@media (min-width: 1200px) {
   .feture__inner .text {
     width: calc(100% - 100px);
     margin-top: 0;
@@ -3625,15 +3708,21 @@ a h6 {
   background: #fff6e3;
 }
 .feture--feturepage3 {
+  padding: calc(1.75rem + 6vw) 0 calc(1.875rem + 7.5vw) 0;
   z-index: 1;
   width: 100% !important;
 }
 @media (min-width: 1200px) {
   .feture--feturepage3 {
+    padding: 6.25rem 0 7.5rem 0;
+  }
+}
+@media (min-width: 1400px) {
+  .feture--feturepage3 {
     padding: calc(1.49375rem + 2.925vw) 0;
   }
 }
-@media (min-width: 1200px) and (min-width: 1200px) {
+@media (min-width: 1400px) and (min-width: 1200px) {
   .feture--feturepage3 {
     padding: 3.6875rem 0;
   }
@@ -3662,6 +3751,15 @@ a h6 {
     top: 0;
     background: #EF495E;
     display: block;
+  }
+}
+
+.feture_about {
+  padding: calc(1.75rem + 6vw) 0 calc(1.875rem + 7.5vw) 0;
+}
+@media (min-width: 1200px) {
+  .feture_about {
+    padding: 6.25rem 0 7.5rem 0;
   }
 }
 
@@ -3729,31 +3827,40 @@ a h6 {
     z-index: 1;
   }
 }
+@media (min-width: 992px) {
+  .services__btn {
+    justify-content: flex-end;
+  }
+}
 .services__btn a {
   width: 180px;
-  margin-left: auto;
+}
+@media (min-width: 992px) {
+  .services__btn a {
+    margin-left: auto;
+  }
 }
 .services .row .col-xxl-3:nth-child(2) .services__inner,
-.services .row .col-lg-6:nth-child(2) .services__inner {
+.services .row .col-md-6:nth-child(2) .services__inner {
   background: #D2D7FF;
 }
 @media (min-width: 1400px) {
   .services .row .col-xxl-3:nth-child(2) .services__inner,
-  .services .row .col-lg-6:nth-child(2) .services__inner {
+  .services .row .col-md-6:nth-child(2) .services__inner {
     margin-top: 42px;
   }
 }
 .services .row .col-xxl-3:nth-child(3) .services__inner,
-.services .row .col-lg-6:nth-child(3) .services__inner {
+.services .row .col-md-6:nth-child(3) .services__inner {
   background: #FEC;
 }
 .services .row .col-xxl-3:nth-child(4) .services__inner,
-.services .row .col-lg-6:nth-child(4) .services__inner {
+.services .row .col-md-6:nth-child(4) .services__inner {
   background: #DFC6FF;
 }
 @media (min-width: 1400px) {
   .services .row .col-xxl-3:nth-child(4) .services__inner,
-  .services .row .col-lg-6:nth-child(4) .services__inner {
+  .services .row .col-md-6:nth-child(4) .services__inner {
     margin-top: 42px;
   }
 }
@@ -3850,18 +3957,13 @@ a h6 {
 }
 .services2__item .thumb .icon {
   box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.1);
-  bottom: 0px;
+  bottom: -35px;
+  left: 7%;
+  border-radius: 10px;
 }
 @media (min-width: 992px) {
   .services2__item .thumb .icon {
     bottom: -45px;
-    left: 7%;
-    border-radius: 10px;
-  }
-}
-@media (min-width: 1400px) {
-  .services2__item .thumb .icon {
-    bottom: -40px;
   }
 }
 .services2__item .thumb .icon img {
@@ -3869,6 +3971,11 @@ a h6 {
 }
 .services2__item .text {
   border-radius: 0 0 10px 10px;
+}
+@media (min-width: 576px) {
+  .services2__item .text {
+    padding-top: 60px;
+  }
 }
 .services2__item:hover .thumb .icon img {
   transform: rotateY(360deg);
@@ -3914,7 +4021,12 @@ a h6 {
 }
 @media (max-width: 1399px) {
   .cousult {
-    margin-top: 130px;
+    margin-top: calc(1.9375rem + 8.25vw);
+  }
+}
+@media (max-width: 1399px) and (min-width: 1200px) {
+  .cousult {
+    margin-top: 8.125rem;
   }
 }
 @media (min-width: 1400px) {
@@ -3962,7 +4074,12 @@ a h6 {
   }
 }
 .cousult__content .rihgtimg.rihgtimggirl {
-  right: 11%;
+  right: 0%;
+}
+@media (min-width: 992px) {
+  .cousult__content .rihgtimg.rihgtimggirl {
+    right: 11%;
+  }
 }
 @media (min-width: 1200px) {
   .cousult__content .rihgtimg.rihgtimggirl {
@@ -3991,6 +4108,9 @@ a h6 {
   .case {
     padding-bottom: 6.25rem;
   }
+}
+.case__item {
+  margin-bottom: 20px;
 }
 @media (min-width: 768px) {
   .case__item {
@@ -4021,11 +4141,23 @@ a h6 {
 .case__item .text h6 a {
   line-height: 21px;
 }
-.case__item .text .icon a {
-  line-height: 85px;
-  border-radius: 50%;
-  top: 100%;
-  right: -10%;
+@media (min-width: 768px) {
+  .case__item .text .icon {
+    display: block;
+  }
+}
+@media (min-width: 768px) {
+  .case__item .text .icon a {
+    transition: all 1s ease;
+    width: 85px;
+    height: 85px;
+    position: absolute;
+    background: #2D50CE;
+    line-height: 85px;
+    border-radius: 50%;
+    top: 100%;
+    right: -10%;
+  }
 }
 .case__item:hover .text .icon a {
   top: 48%;
@@ -4189,11 +4321,11 @@ a h6 {
   transform: rotateY(360deg);
 }
 .working--workingp3 {
-  padding: calc(1.75rem + 6vw) 0;
+  padding: calc(1.875rem + 7.5vw) 0;
 }
 @media (min-width: 1200px) {
   .working--workingp3 {
-    padding: 6.25rem 0;
+    padding: 7.5rem 0;
   }
 }
 @media (min-width: 1400px) {
@@ -4229,6 +4361,11 @@ a h6 {
     border: 5px solid #FFF;
   }
 }
+@media (max-width: 991px) {
+  .working--workingp3 .container .row {
+    flex-direction: column-reverse;
+  }
+}
 .working--aboutpage {
   padding-top: calc(1.5rem + 3vw);
 }
@@ -4253,6 +4390,11 @@ a h6 {
 }
 .working__allitem {
   flex-direction: column;
+}
+@media (min-width: 576px) {
+  .working__allitem .item {
+    gap: 25px;
+  }
 }
 .working__allitem .item .thumb {
   background: #ffdde3;
@@ -4432,21 +4574,39 @@ a h6 {
 
 .team2__inner {
   background: #F0F4F7;
-  padding: 50px 30px;
   z-index: 1;
+  padding: 30px 20px;
+  gap: 30px;
 }
 @media (min-width: 576px) {
   .team2__inner {
     display: flex;
-    align-items: center;
-    gap: 30px;
+  }
+}
+@media (min-width: 1200px) {
+  .team2__inner {
+    padding: 50px 30px;
   }
 }
 .team2__inner .thumb {
-  width: 190px;
-  height: 190px;
+  width: 100%;
   border-radius: 8px;
   border: 6px solid #FFF;
+}
+@media (min-width: 576px) {
+  .team2__inner .thumb {
+    width: 190px;
+    height: 190px;
+  }
+}
+.team2__inner .thumb img {
+  width: 100%;
+}
+@media (min-width: 576px) {
+  .team2__inner .thumb img {
+    width: 190px;
+    height: 190px;
+  }
 }
 .team2__inner .thumb::before {
   background: #1F2A59;
@@ -4530,7 +4690,7 @@ a h6 {
     align-items: start;
   }
 }
-.teamprofile__personalcontent .data > ul li span {
+.teamprofile__personalcontent .data > ul li > span {
   width: 150px;
 }
 @media (max-width: 575px) {
@@ -4568,22 +4728,34 @@ a h6 {
   }
 }
 .pricing {
-  padding-bottom: calc(2.03125rem + 9.375vw);
+  padding-bottom: 0rem;
 }
-@media (min-width: 1200px) {
+@media (min-width: 576px) {
   .pricing {
-    padding-bottom: 9.0625rem;
+    padding-bottom: calc(1.875rem + 7.5vw);
+  }
+}
+@media (min-width: 576px) and (min-width: 1200px) {
+  .pricing {
+    padding-bottom: 7.5rem;
   }
 }
 .pricing__wrapper {
-  height: 2150px;
+  max-height: 2200px;
+  margin-bottom: 80px;
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  .pricing__wrapper {
+    max-width: 450px;
+    margin: auto;
+  }
 }
 @media (min-width: 768px) {
   .pricing__wrapper {
-    height: 1450px;
+    height: 1430px;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
   .pricing__wrapper {
     height: 680px;
   }
@@ -4613,6 +4785,7 @@ a h6 {
 }
 @media (min-width: 1200px) {
   .pricing__inner .bottom {
+    padding-inline: 35px;
     background: #fff;
     position: absolute;
     left: 50%;
@@ -4623,9 +4796,11 @@ a h6 {
     z-index: 1;
   }
 }
-.pricing__inner .bottom ul {
-  width: 240px;
-  margin: auto;
+@media (min-width: 576px) {
+  .pricing__inner .bottom ul {
+    width: 240px;
+    margin: auto;
+  }
 }
 .pricing__inner .bottom ul li a i {
   color: #1F2A59;
@@ -4644,14 +4819,17 @@ a h6 {
 .pricing__inner:hover .top::after {
   background: linear-gradient(0deg, rgba(45, 80, 206, 0.9) 0%, rgba(45, 80, 206, 0.9) 100%), url("..//..//img/home1/pricing/bg.jpg");
 }
-@media (min-width: 1440px) {
+.pricing--pricing_p3 {
+  padding: calc(1.875rem + 7.5vw) 0;
+}
+@media (max-width: 575px) {
   .pricing--pricing_p3 {
-    padding: calc(2rem + 9vw) 0 calc(2rem + 9vw) 0;
+    padding-bottom: 20px;
   }
 }
-@media (min-width: 1440px) and (min-width: 1200px) {
+@media (min-width: 1200px) {
   .pricing--pricing_p3 {
-    padding: 8.75rem 0 8.75rem 0;
+    padding: 7.5rem 0;
   }
 }
 .pricing.light-color::after {
@@ -4995,6 +5173,15 @@ a h6 {
 .casegallery__photoitem:hover .inner_text {
   bottom: 15px;
 }
+
+.casedetails {
+  padding: calc(1.875rem + 7.5vw) 0 calc(1.75rem + 6vw) 0;
+}
+@media (min-width: 1200px) {
+  .casedetails {
+    padding: 7.5rem 0 6.25rem 0;
+  }
+}
 .casedetails__left .item h4 {
   font-size: 28px;
 }
@@ -5008,6 +5195,12 @@ a h6 {
 }
 .casedetails__right {
   box-shadow: 0px 10px 10px 0px rgba(85, 85, 85, 0.05);
+}
+@media (max-width: 1199px) {
+  .casedetails__right {
+    max-width: 550px;
+    margin: 20px auto 0 auto;
+  }
 }
 .casedetails__right h6 {
   padding: 1.25rem calc(1.375rem + 1.5vw) 1.25rem calc(1.375rem + 1.5vw);
