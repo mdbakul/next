@@ -157,7 +157,10 @@
         }
 
         &--innerimgpage2 {
-            @extend %mr-40;
+
+            @include breakpoint(xl) {
+                @include margin-right(40px);
+            }
 
             img {
                 @extend %wd-100;
@@ -185,7 +188,7 @@
     &__counter {
         @extend %mt-40, %flex, %gap-35, %align-items-center;
 
-        @include breakpoint(mlg) {
+        @include breakpoint(xxxl) {
             gap: 45px;
         }
 

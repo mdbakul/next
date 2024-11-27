@@ -5,7 +5,7 @@
         @extend %p-8, %text-center;
         border-radius: 10px;
 
-        @include breakpoint(lg) {
+        @include breakpoint(md) {
             margin-left: auto;
         }
 

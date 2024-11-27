@@ -470,7 +470,7 @@
 
     &__mobilebar {
         @extend %flex, %justify-center, %bg2;
-        @extend %p-10, %w-60, %pointer;
+        @extend %p-10, %w-50, %pointer;
         margin-left: auto;
 
         i {
@@ -484,7 +484,6 @@
         width: 100%;
         z-index: 999;
     }
-
 }
 
 .tpoffcanvas {
@@ -579,9 +578,6 @@
                     }
 
                     ul {
-                        @include breakpoint(max-xl) {
-                            margin-top: 15px;
-                        }
 
                         li {
                             border-left: none;

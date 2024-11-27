@@ -13,17 +13,34 @@
 
     &__content {
         @extend %b-radius-10;
-        @include padding(50px 60px);
+        @include padding(50px 40px);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
 
+        @include breakpoint(esmm) {
+            @include padding(50px 60px);
+        }
+
         h3 {
             @extend %white-color;
+
+            @include breakpoint(max-esmm) {
+                text-align: center;
+                font-size: 22px;
+            }
         }
 
         a {
             @extend %mt-10, %d-inline-block;
+
+            @include breakpoint(max-esmm) {
+                width: 180px;
+                margin: 10px auto 0 auto;
+                text-align: center;
+                left: 50%;
+                transform: translateX(-50%)
+            }
         }
 
         .rihgtimg {
@@ -75,10 +92,7 @@
 
     &--consult2 {
         margin: inherit;
-        margin-top: 50px;
+        @include padding-top(120px);
 
-        @include breakpoint(sm) {
-            @include padding(120px 0);
-        }
     }
 }

@@ -350,4 +350,14 @@
         }
 
     }
+
+    &__section {
+        @include breakpoint(max-lg) {
+            display: flex;
+            justify-content: center;
+            text-align: center;
+            max-width: 600px;
+            margin: auto;
+        }
+    }
 }

@@ -119,7 +119,7 @@ a h6 {
   text-transform: uppercase;
 }
 
-.skill__item .skillbar-container, .casegallery__photoitem .inner_text, .question__rightimg .item, .counter__inner, .pricing__inner .top, .teamprofile__personalcontent .data > ul li .allicon ul li a, .team2__inner .text .social a, .team__inner .thumb .allicon ul li a, .team__inner .thumb .allicon .fixedicon i, .working--workingp3 .working__item, .working__inner .icon .left, .working__inner, .overview__leftimg, .sidebar__need .desk .thumb, .sidebar__brochure .desk .thumb, .services__wrapper > p, .services__inner .thumb, .feture__inner .icon, .contact__details ul li .icon, .about__ceo .item:last-child .thumb, .tpoffcanvas__social ul li a, .tpoffcanvas__close-btn, .banner__btn > a span, .footer__copyright p, .footer__widgets .footer_contact ul li .icon, .footer__widgets .socialicon a, .breadcamb__content nav, .breadcamb__content, .blogsingle__content .tagbutton-icon .tagicon ul li a, .blogsingle__content .quode .icon, .blogsingle__pagi ul li a, .blog__inner .content > a, .sponsor h5, .button_style2, .playbtn_animation a, .form_btn, .pricing__tab nav, .pricing__tab {
+.skill__item .skillbar-container, .casegallery__photoitem .inner_text, .question__rightimg .item, .counter__inner, .pricing__inner .top, .teamprofile__personalcontent .data > ul li .allicon ul li a, .team2__inner .text .social a, .team__inner .thumb .allicon ul li a, .team__inner .thumb .allicon .fixedicon i, .working--workingp3 .working__item, .working__inner .icon .left, .working__inner, .overview__leftimg, .sidebar__need .desk .thumb, .sidebar__brochure .desk .thumb, .services__wrapper > p, .services__inner .thumb, .feture__inner .icon, .contact__details ul li .icon, .about__ceo .item:last-child .thumb, .tpoffcanvas__social ul li a, .tpoffcanvas__close-btn, .banner__btn > a span, .footer__copyright p, .footer__widgets .footer_contact ul li .icon, .footer__widgets .socialicon a, .breadcamb__content nav, .breadcamb__content, .blogsingle__content .tagbutton-icon .tagicon ul li a, .blogsingle__content .quode .icon, .blogsingle__pagi ul li a, .blog__inner .content > a, .scrollToTop, .sponsor h5, .button_style2, .playbtn_animation a, .form_btn, .pricing__tab nav, .pricing__tab {
   text-align: center;
 }
 
@@ -226,7 +226,7 @@ a h6 {
   margin: auto;
 }
 
-.client, .casegallery__photoitem, .testmonial, .pricing__inner .top, .pricing, .team2__inner .thumb, .team2__inner, .team, .working, .overview__leftimg, .case__item, .case, .cousult, .services2__item .thumb, .feture, .about__innerimg, .about, .menu-item-has-children > a, .banner--baner3, .banner, .footer, .breadcamb__content nav ol li, .sidebar__search form, .blog, .preloader__title-2, .preloader__title, .preloader__bar, #loading-center, .animation, .light-color, .button_style2, .playbtn_animation, .button, .form_btn,
+.client, .casegallery__photoitem, .testmonial, .pricing__inner .top, .pricing, .team2__inner .thumb, .team2__inner, .team, .working, .overview__leftimg, .case__item, .case, .cousult, .services2__item .thumb, .feture, .about__innerimg, .about, .menu-item-has-children > a, .banner--baner3, .banner, .footer, .breadcamb__content nav ol li, .sidebar__search form, .blog, .preloader__title-2, .preloader__title, .preloader__bar, #loading-center, .scrollToTop i, .animation, .light-color, .button_style2, .playbtn_animation, .button, .form_btn,
 .skill__item .skillbar-container,
 .skill,
 .question,
@@ -236,7 +236,10 @@ a h6 {
   position: relative;
 }
 
-.client__shape, .casegallery__photoitem .inner_text, .pricing__bullet, .pricing__inner .top::after, .team2__inner::after, .team2__inner .thumb::before, .team__inner .thumb::after, .team__inner .thumb .allicon, .working__shape, .case__bullet, .case__item .text .icon a svg, .services2__item .thumb .icon, .feture__shape, .about__bullet, .about__innerimg .counteritem, .menu-item-has-children > a::before, .menu-item-has-children > a::after, .banner .banner__rightshapepage3, .banner .banner__leftshapepage3, .banner .shape, .banner--baner3::after, .banner--bannerstyletwo .shapeicon, .banner__rightimage, .footer__bullet, .footer__copyright, .sidebar__search form button, .blog__bullet, .preloader__title-2::before, .preloader__bar-inner, #loading-center-absolute, .orginalsearch__area button, .light-color::after, .playbtn_animation::before, .playbtn_animation::after, .msg, .accordion-item .accordion-button .plus-icon:before, .accordion-item .accordion-button .plus-icon:after,
+.client__shape, .casegallery__photoitem .inner_text, .pricing__bullet, .pricing__inner .top::after, .team2__inner::after, .team2__inner .thumb::before, .team__inner .thumb::after, .team__inner .thumb .allicon, .working__shape, .case__bullet, .case__item .text .icon a svg, .services2__item .thumb .icon, .feture__shape, .about__bullet, .about__innerimg .counteritem, .menu-item-has-children > a::before, .menu-item-has-children > a::after, .banner .banner__rightshapepage3, .banner .banner__leftshapepage3, .banner .shape, .banner--baner3::after, .banner--bannerstyletwo .shapeicon, .banner__rightimage, .footer__bullet, .footer__copyright, .sidebar__search form button, .blog__bullet, .preloader__title-2::before, .preloader__bar-inner, #loading-center-absolute, .pluse_1::after, .pluse_1::before,
+.pluse_2::after,
+.pluse_2::before, .pluse_1,
+.pluse_2, .orginalsearch__area button, .light-color::after, .playbtn_animation::before, .playbtn_animation::after, .msg, .accordion-item .accordion-button .plus-icon:before, .accordion-item .accordion-button .plus-icon:after,
 .orginalsearch__area,
 .orginalsearch .closer {
   position: absolute;
@@ -251,7 +254,7 @@ a h6 {
   cursor: pointer;
 }
 
-.skill__item:last-child, .client__item .content .name ul, .client__item .content .name h6, .casedetails__right ul li p, .counter__inner .counting h2 span, .counter__inner .counting h2, .testmonial__inner--innerp3 .profile .left .text h6, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .testmonial__inner .profile .name h6, .pricing__inner .top h6, .teamprofile__Guidelines p, .teamprofile__year p:last-child, .teamprofile__experience p:last-child, .teamprofile__personalcontent .data > ul li p, .teamprofile__personalcontent h4, .team__inner .text h6, .case__item .text h6, .sidebar__need .desk > .text ul li .text h6, .sidebar__need .desk > .text ul li:last-child, .sidebar__need .desk > .text ul, .contact__details ul li:last-child, .about__counter .item .text h4, .about__ceo .item .text h6, .tpoffcanvas__contact ul li:last-child, .header__menu nav > ul, .banner__btn .icon h6, .footer__widgets--widgets2 .footer_services ul li:last-child, .footer__widgets .popular_post ul li .text h6, .footer__widgets .footer_contact ul li:last-child, .footer__widgets .footer_services ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li .text h6, .sidebar__popular .desk ul li:last-child, .blogsingle__reletedpost .content .text h6, .blogsingle__comments .content ul li .commentsarea p, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name h6, .blogsingle__author .author-content .text h6, .accordion-item .accordion-button {
+.skill__item:last-child, .client__item .content .name ul, .client__item .content .name h6, .casedetails__right ul li:last-child, .casedetails__right ul li p, .casedetails__right ul, .counter__inner .counting h2 span, .counter__inner .counting h2, .testmonial__inner--innerp3 .profile .left .text h6, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .testmonial__inner .profile .name h6, .pricing__inner .top h6, .teamprofile__Guidelines p, .teamprofile__year p:last-child, .teamprofile__experience p:last-child, .teamprofile__personalcontent .data > ul li p, .teamprofile__personalcontent h4, .team__inner .text h6, .case__item .text h6, .sidebar__need .desk > .text ul li .text h6, .sidebar__need .desk > .text ul li:last-child, .sidebar__need .desk > .text ul, .contact__details ul li:last-child, .about__counter .item .text h4, .about__ceo .item .text h6, .tpoffcanvas__contact ul li:last-child, .header__menu nav > ul, .banner__btn .icon h6, .footer__widgets--widgets2 .footer_services ul li:last-child, .footer__widgets .popular_post ul li .text h6, .footer__widgets .footer_contact ul li:last-child, .footer__widgets .footer_services ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li .text h6, .sidebar__popular .desk ul li:last-child, .blogsingle__reletedpost .content .text h6, .blogsingle__comments .content ul li .commentsarea p, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name h6, .blogsingle__author .author-content .text h6, .accordion-item .accordion-button {
   margin-bottom: 0;
 }
 
@@ -474,7 +477,7 @@ select {
   margin-top: 0rem;
 }
 
-.teamprofile__personalcontent span {
+.casedetails__right ul li p, .teamprofile__personalcontent span {
   margin-top: 0.125rem;
 }
 
@@ -604,7 +607,7 @@ select {
   }
 }
 
-.skill__item:last-child, .client__item .content .name ul, .client__item .content .name h6, .casedetails__right ul li p, .counter__inner .counting h2 span, .counter__inner .counting h2, .testmonial__inner--innerp3 .profile .left .text h6, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .testmonial__inner .profile .name h6, .pricing__inner .top h6, .teamprofile__Guidelines p, .teamprofile__year p:last-child, .teamprofile__experience p:last-child, .teamprofile__personalcontent .data > ul li p, .teamprofile__personalcontent h4, .team__inner .text h6, .case__item .text h6, .sidebar__need .desk > .text ul li .text h6, .sidebar__need .desk > .text ul li:last-child, .sidebar__need .desk > .text ul, .contact__details ul li:last-child, .about__counter .item .text h4, .about__ceo .item .text h6, .tpoffcanvas__contact ul li:last-child, .header__menu nav > ul, .banner__btn .icon h6, .footer__widgets--widgets2 .footer_services ul li:last-child, .footer__widgets .popular_post ul li .text h6, .footer__widgets .footer_contact ul li:last-child, .footer__widgets .footer_services ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li .text h6, .sidebar__popular .desk ul li:last-child, .blogsingle__reletedpost .content .text h6, .blogsingle__comments .content ul li .commentsarea p, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name h6, .blogsingle__author .author-content .text h6, .accordion-item .accordion-button {
+.skill__item:last-child, .client__item .content .name ul, .client__item .content .name h6, .casedetails__right ul li:last-child, .casedetails__right ul li p, .casedetails__right ul, .counter__inner .counting h2 span, .counter__inner .counting h2, .testmonial__inner--innerp3 .profile .left .text h6, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .testmonial__inner .profile .name h6, .pricing__inner .top h6, .teamprofile__Guidelines p, .teamprofile__year p:last-child, .teamprofile__experience p:last-child, .teamprofile__personalcontent .data > ul li p, .teamprofile__personalcontent h4, .team__inner .text h6, .case__item .text h6, .sidebar__need .desk > .text ul li .text h6, .sidebar__need .desk > .text ul li:last-child, .sidebar__need .desk > .text ul, .contact__details ul li:last-child, .about__counter .item .text h4, .about__ceo .item .text h6, .tpoffcanvas__contact ul li:last-child, .header__menu nav > ul, .banner__btn .icon h6, .footer__widgets--widgets2 .footer_services ul li:last-child, .footer__widgets .popular_post ul li .text h6, .footer__widgets .footer_contact ul li:last-child, .footer__widgets .footer_services ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li .text h6, .sidebar__popular .desk ul li:last-child, .blogsingle__reletedpost .content .text h6, .blogsingle__comments .content ul li .commentsarea p, .blogsingle__comments .content ul li .commentsarea .name-replaybtn .name h6, .blogsingle__author .author-content .text h6, .accordion-item .accordion-button {
   margin-bottom: 0rem;
 }
 
@@ -624,7 +627,7 @@ select {
   margin-bottom: 0.5rem;
 }
 
-.skill__item .skill-title, .casedetails__right ul li, .casedetails__right h6, .tpoffcanvas__social h5, .tpoffcanvas__contact h5, .banner__content h2 {
+.skill__item .skill-title, .casedetails__right ul li, .tpoffcanvas__social h5, .tpoffcanvas__contact h5, .banner__content h2 {
   margin-bottom: 0.625rem;
 }
 
@@ -640,7 +643,7 @@ select {
   margin-bottom: 1.125rem;
 }
 
-.client__item .content .name, .footer__widgets .popular_post ul li:last-child, .footer__widgets .popular_post ul li, .footer__widgets .footer_services ul li, .sidebar__popular .desk ul li, .blogsingle__reletedpost h6, .blogsingle__content .heading h4 {
+.client__item .content .name, .casedetails__right h6, .footer__widgets .popular_post ul li:last-child, .footer__widgets .popular_post ul li, .footer__widgets .footer_services ul li, .sidebar__popular .desk ul li, .blogsingle__reletedpost h6, .blogsingle__content .heading h4 {
   margin-bottom: 1.25rem;
 }
 
@@ -713,15 +716,6 @@ select {
   margin-right: 0.9375rem;
 }
 
-.about__innerimg--innerimgpage2 {
-  margin-right: calc(1.375rem + 1.5vw);
-}
-@media (min-width: 1200px) {
-  .about__innerimg--innerimgpage2 {
-    margin-right: 2.5rem;
-  }
-}
-
 .blogsingle__author .author-content .text p {
   margin-block: 10px;
 }
@@ -783,7 +777,7 @@ select {
   }
 }
 
-.sidebar__need .desk > .text ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li:last-child {
+.casedetails__right ul li:last-child, .casedetails__right ul, .sidebar__need .desk > .text ul li:last-child, .sidebar__catagory .content ul li:last-child, .sidebar__popular .desk ul li:last-child {
   padding-bottom: 0rem;
 }
 
@@ -816,7 +810,7 @@ select {
   }
 }
 
-.client__item .content .name ul, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .pricing__inner .bottom ul, .teamprofile__personalcontent .data > ul li .allicon ul, .teamprofile__personalcontent .data > ul, .team__inner .thumb .allicon ul, .sidebar__need .desk > .text ul, .contact__details ul, .about__contentlist ul, .tpoffcanvas__social ul, .tpoffcanvas__contact ul, .header__menu nav > ul, .footer__widgets--widgets2 .footer_contact ul, .footer__widgets .popular_post ul, .footer__widgets .footer_contact ul, .footer__widgets .footer_services ul, .sidebar__catagory .content ul, .sidebar__popular .desk ul, .blogsingle__comments .content ul, .blogsingle__author .author-content .text ul, .blogsingle__content .tagbutton-icon .tagicon ul, .blogsingle__content .tagbutton-icon .tagbutton ul, .blogsingle__content .heading ul, .blogsingle__pagi ul, .blog__inner .content ul {
+.client__item .content .name ul, .casedetails__right ul, .testmonial__inner--innerp3 ul, .testmonial__inner .profile .name ul, .pricing__inner .bottom ul, .teamprofile__personalcontent .data > ul li .allicon ul, .teamprofile__personalcontent .data > ul, .team__inner .thumb .allicon ul, .sidebar__need .desk > .text ul, .contact__details ul, .about__contentlist ul, .tpoffcanvas__social ul, .tpoffcanvas__contact ul, .header__menu nav > ul, .footer__widgets--widgets2 .footer_contact ul, .footer__widgets .popular_post ul, .footer__widgets .footer_contact ul, .footer__widgets .footer_services ul, .sidebar__catagory .content ul, .sidebar__popular .desk ul, .blogsingle__comments .content ul, .blogsingle__author .author-content .text ul, .blogsingle__content .tagbutton-icon .tagicon ul, .blogsingle__content .tagbutton-icon .tagbutton ul, .blogsingle__content .heading ul, .blogsingle__pagi ul, .blog__inner .content ul {
   padding-left: 0rem;
 }
 
@@ -928,7 +922,7 @@ select {
   padding: 0.625rem;
 }
 
-input,
+.casedetails__right, input,
 textarea,
 select {
   padding: 0.9375rem;
@@ -984,7 +978,7 @@ select {
   width: 35px;
 }
 
-.team__inner .thumb .allicon ul li a, .team__inner .thumb .allicon .fixedicon i, .team__inner .thumb .allicon, .accordion-item .accordion-button .plus-icon {
+.team__inner .thumb .allicon ul li a, .team__inner .thumb .allicon .fixedicon i, .team__inner .thumb .allicon, .scrollToTop, .accordion-item .accordion-button .plus-icon {
   width: 40px;
 }
 
@@ -992,11 +986,11 @@ select {
   width: 45px;
 }
 
-.tpoffcanvas__close-btn, .blogsingle__pagi ul li a, .playbtn_animation a {
+.tpoffcanvas__close-btn, .header__mobilebar, .blogsingle__pagi ul li a, .playbtn_animation a {
   width: 50px;
 }
 
-.client__item .thumb, .testmonial__inner--innerp3 .profile .left .thumb, .header__mobilebar {
+.client__item .thumb, .testmonial__inner--innerp3 .profile .left .thumb {
   width: 60px;
 }
 
@@ -1020,7 +1014,8 @@ select {
   width: 90px;
 }
 
-.skill__rightimg img, .client__item .thumb img, .casedetails__right ul li, input,
+.skill__rightimg img, .client__item .thumb img, .pluse_1,
+.pluse_2, input,
 textarea,
 select {
   width: 100px;
@@ -1030,11 +1025,16 @@ select {
   width: 0%;
 }
 
+.pluse_1::after,
+.pluse_2::after {
+  width: 30%;
+}
+
 .teamprofile__personalcontent .data > ul li .allicon ul li a {
   width: 40%;
 }
 
-.skill__item .skillbar-container, .skill__item, .casedetails__thumb img, .casegallery__photoitem img, .testmonial__inner .profile .thumb img, .pricing__inner .bottom > a, .pricing__inner .top::after, .teamprofile__img img, .team__inner .thumb::after, .team__inner .thumb img, .case__item .thumb img, .sidebar__services .desk a, .sidebar__widgets .title h4, .servicesingle__body .item img, .book__form textarea, .book__form input, .map iframe, .contact__form textarea, .contact__form input, .about__counter .item .text h4, .about__innerimg--innerimgpage2 img, .tpoffcanvas, .header__menu nav > ul li ul li a, .banner--baner3::after, .footer__copyright, .sidebar__catagory .content ul li, .sidebar__search form input, .blogsingle__leavecoments .formarea form textarea, .blogsingle__leavecoments .formarea form input, .blogsingle__comments .content ul li .img img, .blogsingle__author .author-content .thum img, .blog__inner .thumb a img, #loading-center, #loading, .orginalsearch, .light-color::after, .sponsor__item img, .svg-container,
+.skill__item .skillbar-container, .skill__item, .casedetails__right ul li, .casedetails__thumb img, .casegallery__photoitem img, .testmonial__inner .profile .thumb img, .pricing__inner .bottom > a, .pricing__inner .top::after, .teamprofile__img img, .team__inner .thumb::after, .team__inner .thumb img, .case__item .thumb img, .sidebar__services .desk a, .sidebar__widgets .title h4, .servicesingle__body .item img, .book__form textarea, .book__form input, .map iframe, .contact__form textarea, .contact__form input, .about__counter .item .text h4, .about__innerimg--innerimgpage2 img, .tpoffcanvas, .header__menu nav > ul li ul li a, .banner--baner3::after, .footer__copyright, .sidebar__catagory .content ul li, .sidebar__search form input, .blogsingle__leavecoments .formarea form textarea, .blogsingle__leavecoments .formarea form input, .blogsingle__comments .content ul li .img img, .blogsingle__author .author-content .thum img, .blog__inner .thumb a img, #loading-center, #loading, .orginalsearch, .light-color::after, .sponsor__item img, .svg-container,
 .text-container {
   width: 100%;
 }
@@ -1064,7 +1064,7 @@ select {
   height: 35px;
 }
 
-.team__inner .thumb .allicon ul li a, .team__inner .thumb .allicon .fixedicon i, .team__inner .thumb .allicon, .accordion-item .accordion-button .plus-icon {
+.team__inner .thumb .allicon ul li a, .team__inner .thumb .allicon .fixedicon i, .team__inner .thumb .allicon, .scrollToTop, .accordion-item .accordion-button .plus-icon {
   height: 40px;
 }
 
@@ -1105,6 +1105,16 @@ select {
   height: 90px;
 }
 
+.pluse_1,
+.pluse_2 {
+  height: 100px;
+}
+
+.pluse_1::after,
+.pluse_2::after {
+  height: 30%;
+}
+
 .teamprofile__personalcontent .data > ul li .allicon ul li a {
   height: 40%;
 }
@@ -1133,7 +1143,7 @@ select {
   font-size: 0.875rem;
 }
 
-.sidebar__popular .desk ul li .text span {
+.sidebar__popular .desk ul li .text span, .scrollToTop i {
   font-size: 0.9375rem;
 }
 
@@ -1212,7 +1222,10 @@ a h6 {
   top: 30%;
 }
 
-.menu-item-has-children > a::after, #loading-center-absolute, .orginalsearch__area, .accordion-item .accordion-button .plus-icon:before, .accordion-item .accordion-button .plus-icon:after {
+.menu-item-has-children > a::after, #loading-center-absolute, .pluse_1::after, .pluse_1::before,
+.pluse_2::after,
+.pluse_2::before, .pluse_1,
+.pluse_2, .orginalsearch__area, .accordion-item .accordion-button .plus-icon:before, .accordion-item .accordion-button .plus-icon:after {
   top: 50%;
 }
 
@@ -1244,7 +1257,10 @@ a h6 {
   left: 45%;
 }
 
-.casegallery__photoitem .inner_text, #loading-center-absolute, .orginalsearch__area {
+.casegallery__photoitem .inner_text, #loading-center-absolute, .pluse_1::after, .pluse_1::before,
+.pluse_2::after,
+.pluse_2::before, .pluse_1,
+.pluse_2, .orginalsearch__area {
   left: 50%;
 }
 
@@ -1367,7 +1383,7 @@ a h6 {
   width: 230px;
   border-radius: 10px;
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .pricing__tab {
     margin-left: auto;
   }
@@ -1784,14 +1800,6 @@ a h6 {
   margin-left: 10px !important;
 }
 
-.sponsor {
-  padding: calc(1.84375rem + 7.125vw) 0;
-}
-@media (min-width: 1200px) {
-  .sponsor {
-    padding: 7.1875rem 0;
-  }
-}
 .sponsor h5 span {
   font-size: 24px;
 }
@@ -1939,11 +1947,143 @@ a h6 {
   width: 60px;
 }
 .padding-block {
-  padding: calc(1.875rem + 7.5vw) 0;
+  padding: 60px 0;
 }
-@media (min-width: 1200px) {
+@media (min-width: 576px) {
+  .padding-block {
+    padding: calc(1.875rem + 7.5vw) 0;
+  }
+}
+@media (min-width: 576px) and (min-width: 1200px) {
   .padding-block {
     padding: 7.5rem 0;
+  }
+}
+
+.scrollToTop {
+  line-height: 40px;
+  position: fixed;
+  bottom: -30%;
+  right: 5%;
+  z-index: 9;
+  background: linear-gradient(99deg, #2D50CE 25.27%, #2D50CE 96.39%);
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  font-size: 24px;
+  animation: lab_top_up 5s linear infinite;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  z-index: 999999;
+}
+.scrollToTop i {
+  color: #fff;
+  z-index: 1;
+}
+
+@keyframes lab_top_up {
+  0% {
+    transform: translateY(-15px);
+  }
+  50% {
+    transform: translateY(0px);
+  }
+  100% {
+    transform: translateY(-15px);
+  }
+}
+.pluse_1,
+.pluse_2 {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background: rgba(45, 80, 206, 0.1);
+}
+.pluse_1::after, .pluse_1::before,
+.pluse_2::after,
+.pluse_2::before {
+  background: #2D50CE;
+  border-radius: 50%;
+  margin-left: -20px;
+  margin-top: -20px;
+  z-index: 0;
+}
+.pluse_1::after,
+.pluse_2::after {
+  margin-left: -15px;
+  margin-top: -15px;
+  background: transparent;
+}
+.pluse_1:before,
+.pluse_2:before {
+  width: 40px;
+  height: 40px;
+}
+
+.pluse_1 {
+  -webkit-animation: pluse_animate 3s infinite linear;
+  animation: pluse_animate 3s infinite linear;
+}
+
+.pluse_2::before {
+  -webkit-animation: pluse_animate 3s infinite linear;
+  animation: pluse_animate 3s infinite linear;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+@keyframes pluse_animate {
+  0% {
+    opacity: 1;
+    -webkit-transform: translate(-50%, -50%) scale(0.3);
+    transform: translate(-50%, -50%) scale(0.3);
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: translate(-50%, -50%) scale(2);
+    transform: translate(-50%, -50%) scale(2);
+  }
+}
+@media (min-width: 1200px) {
+  .fadeInDown {
+    -webkit-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+  }
+  .animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+  @keyframes fadeInDown {
+    0% {
+      opacity: 0;
+      -webkit-transform: translateY(-20px);
+      -ms-transform: translateY(-20px);
+      transform: translateY(-20px);
+    }
+    100% {
+      opacity: 1;
+      -webkit-transform: translateY(0);
+      -ms-transform: translateY(0);
+      transform: translateY(0);
+    }
+  }
+}
+@media (max-width: 575px) {
+  .wow {
+    visibility: visible !important;
+    -webkit-animation: none !important;
+    -moz-animation: none !important;
+    -o-animation: none !important;
+    -ms-animation: none !important;
+    animation: none !important;
   }
 }
 
@@ -2796,7 +2936,12 @@ a h6 {
   }
 }
 .banner__rightimage {
-  right: 10%;
+  right: -28%;
+}
+@media (min-width: 1200px) {
+  .banner__rightimage {
+    right: 10%;
+  }
 }
 @media (min-width: 1200px) {
   .banner__rightimage--rightimage2 {
@@ -2815,6 +2960,14 @@ a h6 {
 }
 .banner__rightimage--rightimage2 img {
   width: 80%;
+}
+.banner__rightimage img {
+  width: 65%;
+}
+@media (min-width: 1200px) {
+  .banner__rightimage img {
+    width: 80%;
+  }
 }
 .banner--bannerstyletwo {
   padding: 160px 0 100px 0;
@@ -3291,11 +3444,6 @@ a h6 {
     width: 100%;
   }
 }
-@media (max-width: 1199px) {
-  .tpoffcanvas .tp-main-menu-mobile nav ul li ul {
-    margin-top: 15px;
-  }
-}
 .tpoffcanvas .tp-main-menu-mobile nav ul li ul li {
   border-left: none;
   border-right: none;
@@ -3408,6 +3556,11 @@ a h6 {
 .about__contentlist ul {
   gap: 8px 0;
 }
+@media (min-width: 992px) and (max-width: 1199px) {
+  .about__contentlist ul {
+    max-width: 600px;
+  }
+}
 @media (max-width: 767px) {
   .about__contentlist ul {
     flex-direction: column;
@@ -3460,6 +3613,16 @@ a h6 {
 .about__innerimg .counteritem > span {
   width: 110px;
 }
+@media (min-width: 1200px) {
+  .about__innerimg--innerimgpage2 {
+    margin-right: calc(1.375rem + 1.5vw);
+  }
+}
+@media (min-width: 1200px) and (min-width: 1200px) {
+  .about__innerimg--innerimgpage2 {
+    margin-right: 2.5rem;
+  }
+}
 .about__innerimg--innerimgpage2 img {
   border-radius: 10px;
 }
@@ -3474,7 +3637,7 @@ a h6 {
     display: block;
   }
 }
-@media (min-width: 1024px) {
+@media (min-width: 1400px) {
   .about__counter {
     gap: 45px;
   }
@@ -4035,14 +4198,39 @@ a h6 {
   }
 }
 .cousult__content {
-  padding: calc(1.4375rem + 2.25vw) calc(1.5rem + 3vw);
+  padding: calc(1.4375rem + 2.25vw) calc(1.375rem + 1.5vw);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 @media (min-width: 1200px) {
   .cousult__content {
+    padding: 3.125rem 2.5rem;
+  }
+}
+@media (min-width: 450px) {
+  .cousult__content {
+    padding: calc(1.4375rem + 2.25vw) calc(1.5rem + 3vw);
+  }
+}
+@media (min-width: 450px) and (min-width: 1200px) {
+  .cousult__content {
     padding: 3.125rem 3.75rem;
+  }
+}
+@media (max-width: 449px) {
+  .cousult__content h3 {
+    text-align: center;
+    font-size: 22px;
+  }
+}
+@media (max-width: 449px) {
+  .cousult__content a {
+    width: 180px;
+    margin: 10px auto 0 auto;
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
   }
 }
 @media (min-width: 768px) {
@@ -4093,11 +4281,11 @@ a h6 {
 }
 .cousult--consult2 {
   margin: inherit;
-  margin-top: calc(1.875rem + 7.5vw);
+  padding-top: calc(1.875rem + 7.5vw);
 }
 @media (min-width: 1200px) {
   .cousult--consult2 {
-    margin-top: 7.5rem;
+    padding-top: 7.5rem;
   }
 }
 
@@ -4491,6 +4679,15 @@ a h6 {
     display: block;
   }
 }
+@media (max-width: 991px) {
+  .working__section {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+  }
+}
 
 .team__inner {
   -webkit-border-radius: 5px;
@@ -4742,7 +4939,12 @@ a h6 {
 }
 .pricing__wrapper {
   max-height: 2200px;
-  margin-bottom: 80px;
+  margin-bottom: 50px;
+}
+@media (min-width: 992px) {
+  .pricing__wrapper {
+    margin-bottom: 80px;
+  }
 }
 @media (min-width: 576px) and (max-width: 767px) {
   .pricing__wrapper {
@@ -4912,12 +5114,6 @@ a h6 {
 
 .testmonial {
   z-index: 1;
-  padding: calc(1.84375rem + 7.125vw) 0 calc(1.6875rem + 5.25vw) 0;
-}
-@media (min-width: 1200px) {
-  .testmonial {
-    padding: 7.1875rem 0 5.625rem 0;
-  }
 }
 @media (max-width: 1599px) {
   .testmonial {
@@ -5005,10 +5201,15 @@ a h6 {
 }
 @media (min-width: 1024px) {
   .testmonial__page3rigtimg {
-    right: -7%;
+    right: -22%;
     position: absolute;
     bottom: 0;
     display: block !important;
+  }
+}
+@media (min-width: 1200px) {
+  .testmonial__page3rigtimg {
+    right: -5%;
   }
 }
 @media (min-width: 1400px) {
@@ -5022,7 +5223,12 @@ a h6 {
   }
 }
 .testmonial__page3rigtimg img {
-  width: 80%;
+  width: 70%;
+}
+@media (min-width: 1200px) {
+  .testmonial__page3rigtimg img {
+    width: 80%;
+  }
 }
 @media (min-width: 1400px) {
   .testmonial__page3rigtimg img {
@@ -5032,6 +5238,20 @@ a h6 {
 @media (max-width: 1399px) {
   .testmonial--page3 {
     overflow: hidden;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .testmonial--page3 .testmonial__wrapper {
+    padding-top: 60px;
+    max-width: 550px;
+    margin: auto;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .testmonial--page3 .section {
+    display: flex;
+    justify-content: center;
+    text-align: center;
   }
 }
 
@@ -5193,21 +5413,24 @@ a h6 {
     margin-top: 2.5rem;
   }
 }
-.casedetails__right {
-  box-shadow: 0px 10px 10px 0px rgba(85, 85, 85, 0.05);
-}
-@media (max-width: 1199px) {
+@media (min-width: 576px) {
   .casedetails__right {
-    max-width: 550px;
-    margin: 20px auto 0 auto;
+    padding: calc(1.3125rem + 0.75vw);
   }
 }
-.casedetails__right h6 {
-  padding: 1.25rem calc(1.375rem + 1.5vw) 1.25rem calc(1.375rem + 1.5vw);
+@media (min-width: 576px) and (min-width: 1200px) {
+  .casedetails__right {
+    padding: 1.875rem;
+  }
 }
-@media (min-width: 1200px) {
-  .casedetails__right h6 {
-    padding: 1.25rem 2.5rem 1.25rem 2.5rem;
+@media (min-width: 576px) {
+  .casedetails__right {
+    box-shadow: 0px 10px 10px 0px rgba(85, 85, 85, 0.05);
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .casedetails__right {
+    max-width: 550px;
   }
 }
 @media (min-width: 576px) {
@@ -5222,8 +5445,16 @@ a h6 {
     padding-bottom: 1.25rem;
   }
 }
-.casedetails__right ul li:nth-child(even) {
-  padding-left: 1.25rem;
+@media (min-width: 576px) {
+  .casedetails__right ul li:nth-child(even) {
+    padding-left: 1.25rem;
+  }
+}
+@media (min-width: 450px) and (max-width: 1199px) {
+  .casedetails__right ul li:nth-child(5) {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
 }
 @media (min-width: 450px) {
   .casedetails__right ul li:nth-child(5) {
@@ -5233,7 +5464,6 @@ a h6 {
 .casedetails__right ul li:nth-child(6) {
   border-bottom: none !important;
 }
-
 .client {
   padding-bottom: calc(1.625rem + 4.5vw);
 }

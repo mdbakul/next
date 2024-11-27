@@ -155,7 +155,11 @@
     // banner two style start here
     &__rightimage {
         @extend %abs, %bottom-0;
-        right: 10%;
+        right: -28%;
+
+        @include breakpoint(xl) {
+            right: 10%;
+        }
 
         &--rightimage2 {
             @include breakpoint(xl) {
@@ -171,6 +175,14 @@
             }
 
             img {
+                width: 80%;
+            }
+        }
+
+        img {
+            width: 65%;
+
+            @include breakpoint(xl) {
                 width: 80%;
             }
         }

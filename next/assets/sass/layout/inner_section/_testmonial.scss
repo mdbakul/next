@@ -146,10 +146,14 @@
         display: none !important;
 
         @include breakpoint(mlg) {
-            right: -12%;
+            right: -22%;
             position: absolute;
             bottom: 0;
             display: block !important;
+        }
+
+        @include breakpoint(xl) {
+            right: -5%;
         }
 
         @include breakpoint(xxxl) {
@@ -161,7 +165,11 @@
         }
 
         img {
-            width: 80%;
+            width: 70%;
+
+            @include breakpoint(xl) {
+                width: 80%;
+            }
 
             @include breakpoint(xxxl) {
                 width: 100%;
