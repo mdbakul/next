@@ -218,7 +218,6 @@ $(function () {
     $('.testmonial__slider').slick({
         autoplay: true,
         autoplaySpeed: 5000,
-        dots: true,
         slidesToShow: 2,
         slidesToScroll: 2,
         responsive: [
@@ -235,7 +234,6 @@ $(function () {
     $('.sponsor__slider').slick({
         autoplay: true,
         autoplaySpeed: 5000,
-        dots: true,
         slidesToShow: 6,
         slidesToScroll: 6,
         responsive: [
@@ -390,6 +388,65 @@ $(function () {
             });
         });
     })
+
+
+    // scroll up start here
+    $(function () {
+        //Check to see if the window is top if not then display button
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 300) {
+                $(".scrollToTop").css({
+                    bottom: "2%",
+                    opacity: "1",
+                    transition: "all .5s ease",
+                });
+            } else {
+                $(".scrollToTop").css({
+                    bottom: "-30%",
+                    opacity: "0",
+                    transition: "all .5s ease",
+                });
+            }
+        });
+        //Click event to scroll to top
+        $(".scrollToTop").on("click", function () {
+            $("html, body").animate(
+                {
+                    scrollTop: 0,
+                },
+                500
+            );
+            return false;
+        });
+    });// scroll up start here
+    $(function () {
+        //Check to see if the window is top if not then display button
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 300) {
+                $(".scrollToTop").css({
+                    bottom: "2%",
+                    opacity: "1",
+                    transition: "all .5s ease",
+                });
+            } else {
+                $(".scrollToTop").css({
+                    bottom: "-30%",
+                    opacity: "0",
+                    transition: "all .5s ease",
+                });
+            }
+        });
+        //Click event to scroll to top
+        $(".scrollToTop").on("click", function () {
+            $("html, body").animate(
+                {
+                    scrollTop: 0,
+                },
+                500
+            );
+            return false;
+        });
+    });
 
     // wow animation
     new WOW().init();

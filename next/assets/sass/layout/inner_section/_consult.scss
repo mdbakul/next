@@ -75,6 +75,10 @@
 
     &--consult2 {
         margin: inherit;
-        @include margin-top(120px);
+        margin-top: 50px;
+
+        @include breakpoint(sm) {
+            @include padding(120px 0);
+        }
     }
 }

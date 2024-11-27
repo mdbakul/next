@@ -47,6 +47,12 @@
             @extend %mp-0, %flex, %pl-0;
             gap: 8px 0;
 
+            @include breakpoint(lg) {
+                @include breakpoint(max-xl) {
+                    max-width: 600px;
+                }
+            }
+
             @include breakpoint(max-md) {
                 flex-direction: column;
             }

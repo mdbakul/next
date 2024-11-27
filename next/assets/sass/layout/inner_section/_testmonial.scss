@@ -2,8 +2,6 @@
     @extend %bg-reno, %bg-center, %bg-cover, %rel;
     z-index: 1;
 
-    @include padding(115px 0 90px 0);
-
     @include breakpoint(max-xxxxxl) {
         overflow: hidden;
     }
@@ -148,7 +146,7 @@
         display: none !important;
 
         @include breakpoint(mlg) {
-            right: -7%;
+            right: -12%;
             position: absolute;
             bottom: 0;
             display: block !important;
@@ -175,5 +173,27 @@
         @include breakpoint(max-xxxl) {
             overflow: hidden;
         }
+
+        .testmonial__wrapper {
+            @include breakpoint(md) {
+                @include breakpoint(max-mlg) {
+                    padding-top: 60px;
+                    max-width: 550px;
+                    margin: auto;
+                }
+            }
+        }
+
+        .section {
+            @include breakpoint(md) {
+                @include breakpoint(max-mlg) {
+                    display: flex;
+                    justify-content: center;
+                    text-align: center;
+                }
+            }
+        }
+
+
     }
 }
